@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <style>
+    .logo-text { font-family: 'Arial', sans-serif; }
+    .main-title { fill: #f26d35; font-size: 48px; font-weight: bold; }
+    .subtitle { fill: #0a3889; font-size: 20px; }
+  </style>
+
+  <!-- Orbital elements -->
+  <circle cx="382" cy="290" r="40" fill="#f26d35" />
+  <circle cx="547" cy="617" r="40" fill="#f26d35" />
+
+  <!-- Orbits -->
+  <ellipse cx="465" cy="450" rx="250" ry="360" fill="none" stroke="#ffc52e" stroke-width="20" transform="rotate(-30 465 450)" />
+  <ellipse cx="465" cy="450" rx="250" ry="360" fill="none" stroke="#0a3889" stroke-width="20" transform="rotate(60 465 450)" />
+
+  <!-- Stars -->
+  <path d="M420 350 L430 360 L420 370 L410 360 Z" fill="#ffc52e" />
+  <path d="M540 350 L550 360 L540 370 L530 360 Z" fill="#ffc52e" />
+  <path d="M670 450 L680 460 L670 470 L660 460 Z" fill="#ffc52e" />
+  <path d="M420 550 L430 560 L420 570 L410 560 Z" fill="#ffc52e" />
+  <path d="M290 450 L300 460 L290 470 L280 460 Z" fill="#ffc52e" />
+  <path d="M465 550 L475 560 L465 570 L455 560 Z" fill="#ffc52e" />
+
+  <!-- T and S logo -->
+  <path d="M440 400 L520 400 L520 420 L490 420 L490 500 C490 520 460 530 440 510 C430 500 430 480 450 470 C465 463 480 470 480 470 L480 420 L450 420 L450 400 Z" fill="#0a3889" />
+
+  <!-- Text -->
+  <text x="270" y="760" class="logo-text main-title">Tarrot with Shweta</text>
+  <text x="278" y="790" class="logo-text subtitle">Tarrot reader | Numerologist | Healer | Name corrector</text>
+</svg>
