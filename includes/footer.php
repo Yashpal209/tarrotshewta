@@ -129,6 +129,25 @@
         });
     });
 </script>
+<script>
+        var swiper = new Swiper(".key-slider", {
+            loop: true,
+            slidesPerView: "auto",
+            spaceBetween: 20,
+            speed: 3000,
+            autoplay: {
+                delay: 0,
+                disableOnInteraction: false,
+            },
+            freeMode: true,
+            breakpoints: {
+                320: { slidesPerView: 1 },
+                480: { slidesPerView: 2 },
+                768: { slidesPerView: 3 },
+                1024: { slidesPerView: 4 }
+            }
+        });
+    </script>
 <script src="js/main.js"></script>
 </body>
 

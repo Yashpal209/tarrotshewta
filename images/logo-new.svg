@@ -25,6 +25,6 @@
   <path d="M440 400 L520 400 L520 420 L490 420 L490 500 C490 520 460 530 440 510 C430 500 430 480 450 470 C465 463 480 470 480 470 L480 420 L450 420 L450 400 Z" fill="#0a3889" />
 
   <!-- Text -->
-  <text x="270" y="760" class="logo-text main-title">Tarrot with Shweta</text>
-  <text x="278" y="790" class="logo-text subtitle">Tarrot reader | Numerologist | Healer | Name corrector</text>
+  <!-- <text x="270" y="760" class="logo-text main-title">Tarrot with Shweta</text>
+  <text x="278" y="790" class="logo-text subtitle">Tarrot reader | Numerologist | Healer | Name corrector</text> -->
 </svg>

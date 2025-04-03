@@ -27,17 +27,33 @@
 </section>
 
 <!-- About Section -->
-<section class="about-section">
+<section class="trainer-section">
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2 class="section-title">About Us</h2>
+                <h2 class="section-title" style="color: white;">About us</h2>
             </div>
             <div class="col-12">
                 <h3 class="about-title">WHO IS TARROT WITH SHWETA?</h3>
                 <div class="about-text">
                     <p>Welcome to Tarrot with Shweta.... From a young age, I had an intense connection with the universe. My abilities allow me to pick up information and feelings from people, as well as vibrations and messages from spirits and souls. Using my spiritual energies and hard intuition, I want to help provide you with the information you're seeking whether it be answers regarding your present, past, or future.</p>
                     <p>It's been my experience that many have the knowledge they seek deep within them, and simply need the right spiritual guidance to find the answers they have buried inside. I would like to thank you for believing and supporting Tarrot with Shweta.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-12 text-center">
+                <div class="trainer-image">
+                    <img src="images/sweta.jpg" alt="Shweta - Tarrot Card Reader">
+                </div>
+                <h3 class="trainer-name">Shweta</h3>
+                <p class="trainer-title">TARROCARD READER</p>
+            </div>
+            <div class="col-lg-8 col-md-12">
+
+                <h3 class="section-title" style="color: white;">Shweta</h3>
+                <div class="trainer-bio">
+                    <p>Shweta is a certified tarrot reader, psychic reader. Have practiced from last 10 years and helped thousands of people solving their issues. Now I am available in social media to guide people with the help of my spiritual energies, Tarot card reading, Candle Healing, Reiki Healing, Numerology, Astrology, Vaastu - Shastra, Switchwords, Angels Healing, Love readings and Love Spells, Angels Reading, and Much more...</p>
                 </div>
             </div>
         </div>
@@ -49,50 +65,51 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2 class="section-title text-center">Our Satisfying Services</h2>
+                <h2 class="section-title">Our Satisfying Services</h2>
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-4 col-md-6 mb-4">
+            <div class="col-xl-3 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
                         <img src="images/tarot-card.png" alt="Tarot Cards">
                     </div>
                     <h3 class="service-title">Tarot Reader</h3>
-                    <p class="service-description">The art of predicting the future and seeking guidance over life decisions in the most divine manner using a set of spiritually energized cards is Tarot Card Reading.</p>
+                    <p class="service-description">A sacred practice that helps predict the future and offers divine guidance through spiritually energized tarot cards.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 mb-4">
+            <div class="col-xl-3 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
                         <img src="images/numerology.png" alt="Numerology">
                     </div>
                     <h3 class="service-title">Numerology</h3>
-                    <p class="service-description">Numerology is an astro-scientific technique for forecasting and rectifying life events, helping you improve the quality of your life through numbers.</p>
+                    <p class="service-description">A powerful technique using numbers to forecast life events, offering insights and solutions for a balanced, successful life.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 mb-4">
+            <div class="col-xl-3 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
                         <img src="images/vaastu.png" alt="Vaastu">
                     </div>
                     <h3 class="service-title">Vaastu</h3>
-                    <p class="service-description">Vaastu Shastra determines the ideal placement of structures in your workplace and home, influencing the energies that shape your life.</p>
+                    <p class="service-description">Ancient wisdom that optimizes the energy of your home and workplace by aligning spaces for positivity and prosperity.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 mb-4">
+            <div class="col-xl-3 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
                         <img src="images/reiki-healing.png" alt="Reiki Healing">
                     </div>
                     <h3 class="service-title">Reiki Healing</h3>
-                    <p class="service-description">Reiki is a universal energy that cleanses and removes energetic blockages, balancing your body and promoting healing.</p>
+                    <p class="service-description">A holistic energy practice that clears blockages, restores balance, and promotes deep healing for mind, body, and soul.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
+
         </div>
         <div class="row mt-4">
             <div class="col-12 text-center">
@@ -111,71 +128,73 @@
             </div>
         </div>
         <div class="row align-items-center">
-            <div class="col-lg-5 mb-4 mb-lg-0">
+            <div class="col-lg-2 mb-4 mb-lg-0">
                 <div class="why-us-image">
                     <img src="images/tarot-card.png" alt="Why Choose Tarrot with Shweta">
                 </div>
             </div>
-            <div class="col-lg-7">
-                <h3>Why You Choose TARROT WITH SHWETA?</h3>
-                <p>This is the page you can get free pick a pile, remedy, switch word, angel guidance, Daily horoscope and other spiritual posts. You can get your aura cleaned and get positivity daily without any payment. We never ignore any of our clients or never overcharge anyone. We are always available for people's help.</p>
-
+            <div class="col-lg-10">
                 <div class="progress-wrapper">
-                    <div class="progress-item">
-                        <div class="progress-title">
-                            <span>Best Performance</span>
-                            <span>95%</span>
-                        </div>
-                        <div class="progress">
-                            <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
-                        </div>
-                    </div>
+                    <section class="key bg-light py-4">
+                        <div class="container text-center">
+                            <div class="swiper key-slider p-3">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <div class="feature-card">
+                                            <img src="images/icons/exp.png" alt="Experienced & Gifted Reader">
+                                            <h5 class="mb-1 fw-bold">Experienced & Gifted Reader</h5>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="feature-card">
+                                            <img src="images/icons/spiritual.png" alt="Spiritual Guidance">
+                                            <h5 class="mb-1 fw-bold">Spiritual Guidance</h5>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="feature-card">
+                                            <img src="images/icons/holistic.png" alt="Holistic Approach">
+                                            <h5 class="mb-1 fw-bold">Holistic Approach</h5>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="feature-card">
+                                            <img src="images/icons/Personalized.png" alt="Personalized Sessions">
+                                            <h5 class="mb-1 fw-bold">Personalized Sessions</h5>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="feature-card">
+                                            <img src="images/icons/strong-man-svgrepo-com.png" alt="Confidential & Trustworthy">
+                                            <h5 class="mb-1 fw-bold">Confidential & Trustworthy</h5>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="feature-card">
+                                            <img src="images/icons/year.png" alt="Years of Experience">
+                                            <h5 class="mb-1 fw-bold">Years of Experience</h5>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="feature-card">
+                                            <img src="images/icons/transparency.png" alt="Accurate & Honest Insights">
+                                            <h5 class="mb-1 fw-bold">Accurate & Honest Insights</h5>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="feature-card">
+                                            <img src="images/icons/heal.png" alt="Positive & Healing Energy">
+                                            <h5 class="mb-1 fw-bold">Positive & Healing Energy</h5>
+                                        </div>
+                                    </div>
+                                </div>  
 
-                    <div class="progress-item">
-                        <div class="progress-title">
-                            <span>Best Solution</span>
-                            <span>95%</span>
+                            </div>
                         </div>
-                        <div class="progress">
-                            <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
-                        </div>
-                    </div>
-
-                    <div class="progress-item">
-                        <div class="progress-title">
-                            <span>Trust</span>
-                            <span>97%</span>
-                        </div>
-                        <div class="progress">
-                            <div class="progress-bar" role="progressbar" style="width: 97%" aria-valuenow="97" aria-valuemin="0" aria-valuemax="100"></div>
-                        </div>
-                    </div>
+                    </section>
                 </div>
             </div>
         </div>
-    </div>
-</section>
-
-<!-- About Trainer Section -->
-<section class="trainer-section">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-4 col-md-12 text-center">
-                <div class="trainer-image">
-                    <img src="images/sweta.jpg" alt="Shweta - Tarrot Card Reader">
-                </div>
-                <h3 class="trainer-name">Shweta</h3>
-                <p class="trainer-title">TARROCARD READER</p>
-            </div>
-            <div class="col-lg-8 col-md-12">
-                <h2 class="section-title" style="color: white;">About</h2>
-                <h3 style="color: white;">Shweta</h3>
-                <div class="trainer-bio">
-                    <p>Shweta is a certified tarrot reader, psychic reader. Have practiced from last 10 years and helped thousands of people solving their issues. Now I am available in social media to guide people with the help of my spiritual energies, Tarot card reading, Candle Healing, Reiki Healing, Numerology, Astrology, Vaastu - Shastra, Switchwords, Angels Healing, Love readings and Love Spells, Angels Reading, and Much more...</p>
-                </div>
-            </div>
-        </div>
-    </div>
 </section>
 
 <!-- Testimonial Section -->
@@ -183,7 +202,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2 class="section-title text-center">Testimonials</h2>
+                <h2 class="section-title ">Testimonials</h2>
             </div>
         </div>
 
