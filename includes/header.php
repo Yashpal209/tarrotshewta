@@ -43,7 +43,7 @@
                                 <a href="https://wa.me/919876543210" target="_blank"><i class="fab fa-whatsapp fa-xl"></i></a>
                             </div>
                             <div class="social-links hide">
-                                <a href="https://www.facebook.com/tarrotwithshweta" target="_blank"><i class="fab fa-facebook-f fa-xl text-primary"></i></a>
+                                <a  href="https://www.facebook.com/tarrotwithshweta" target="_blank"><i class="fab fa-facebook-f fa-xl text-primary"></i></a>
                                 <a href="https://www.instagram.com/tarrotwithshweta/" target="_blank"><i class="fab fa-instagram fa-xl text-danger"></i></a>
                             </div>
                             <div class="cta-button">
@@ -75,10 +75,10 @@
                             Services
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="reader.php">Tarrot reader</a></li>
-                                <li><a class="dropdown-item" href="numerologist.php">Numerologist </a></li>
-                                <li><a class="dropdown-item" href="healer.php">Healer</a></li>
-                                <li><a class="dropdown-item" href="corrector.php">Name Corrector</a></li>
+                                <li><a class="dropdown-item" href="services.php">Tarrot reader</a></li>
+                                <li><a class="dropdown-item" href="services.php">Numerologist </a></li>
+                                <li><a class="dropdown-item" href="services.php">Healer</a></li>
+                                <li><a class="dropdown-item" href="services.php">Name Corrector</a></li>
                             </ul>
                         </li>
                         <li class="nav-item">

@@ -202,25 +202,26 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2 class="section-title ">Testimonials</h2>
+                <h2 class="section-title">Testimonials</h2>
             </div>
         </div>
 
         <!-- Swiper Container -->
         <div class="swiper testimonial-slider">
             <div class="swiper-wrapper">
+
                 <!-- Testimonial Item 1 -->
                 <div class="swiper-slide">
                     <div class="testimonial-item">
                         <div class="testimonial-text">
-                            <p>Hy, I had been following you for a long time, but today something amazing happened. After putting the rose wallpaper, within 1-2 hours, the person I hadn't met for 2 months suddenly came to my home to meet me.</p>
+                            <p>Hi Mam, I want to book a health reading for my sister. Please tell me the charges. Also, I want to thank you because I took a reading regarding my husband's job, and he got it last month as you predicted. Your readings are to the point. Thank you so much, Mam!</p>
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
-                                <img src="images/user.png" alt="Ojavita">
+                                <img src="images/user.png" alt="Manpreet Kaur">
                             </div>
                             <div class="testimonial-author-info">
-                                <h5>Ojavita</h5>
+                                <h5>Manpreet Kaur</h5>
                             </div>
                         </div>
                     </div>
@@ -234,51 +235,69 @@
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
-                                <img src="images/user.png" alt="Manpreet Kaur">
+                                <img src="images/user.png" alt="Simran Chawla">
                             </div>
                             <div class="testimonial-author-info">
-                                <h5>Manpreet Kaur</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="testimonial-item">
-                        <div class="testimonial-text">
-                            <p>Hi Mam, I want to book a health reading for my sister. Please tell me the charges. Also, I want to thank you because I took a reading regarding my husband's job, and he got it last month as you predicted. Your readings are to the point. Thank you so much, Mam!</p>
-                        </div>
-                        <div class="testimonial-author">
-                            <div class="testimonial-author-img">
-                                <img src="images/user.png" alt="Manpreet Kaur">
-                            </div>
-                            <div class="testimonial-author-info">
-                                <h5>Manpreet Kaur</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="testimonial-item">
-                        <div class="testimonial-text">
-                            <p>Hi Mam, I want to book a health reading for my sister. Please tell me the charges. Also, I want to thank you because I took a reading regarding my husband's job, and he got it last month as you predicted. Your readings are to the point. Thank you so much, Mam!</p>
-                        </div>
-                        <div class="testimonial-author">
-                            <div class="testimonial-author-img">
-                                <img src="images/user.png" alt="Manpreet Kaur">
-                            </div>
-                            <div class="testimonial-author-info">
-                                <h5>Manpreet Kaur</h5>
+                                <h5>Simran Chawla</h5>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Add more testimonials here -->
+                <!-- Testimonial Item 3 -->
+                <div class="swiper-slide">
+                    <div class="testimonial-item">
+                        <div class="testimonial-text">
+                            <p>Hi Mam, I want to book a health reading for my sister. Please tell me the charges. Also, I want to thank you because I took a reading regarding my husband's job, and he got it last month as you predicted. Your readings are to the point. Thank you so much, Mam!</p>
+                        </div>
+                        <div class="testimonial-author">
+                            <div class="testimonial-author-img">
+                                <img src="images/user.png" alt="Neha Sharma">
+                            </div>
+                            <div class="testimonial-author-info">
+                                <h5>Neha Sharma</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Testimonial Item 4 -->
+                <div class="swiper-slide">
+                    <div class="testimonial-item">
+                        <div class="testimonial-text">
+                            <p>Hi Mam, I want to book a health reading for my sister. Please tell me the charges. Also, I want to thank you because I took a reading regarding my husband's job, and he got it last month as you predicted. Your readings are to the point. Thank you so much, Mam!</p>
+                        </div>
+                        <div class="testimonial-author">
+                            <div class="testimonial-author-img">
+                                <img src="images/user.png" alt="Priya Verma">
+                            </div>
+                            <div class="testimonial-author-info">
+                                <h5>Priya Verma</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Testimonial Item 5 -->
+                <div class="swiper-slide">
+                    <div class="testimonial-item">
+                        <div class="testimonial-text">
+                            <p>Hi Mam, I want to book a health reading for my sister. Please tell me the charges. Also, I want to thank you because I took a reading regarding my husband's job, and he got it last month as you predicted. Your readings are to the point. Thank you so much, Mam!</p>
+                        </div>
+                        <div class="testimonial-author">
+                            <div class="testimonial-author-img">
+                                <img src="images/user.png" alt="Anjali Mehta">
+                            </div>
+                            <div class="testimonial-author-info">
+                                <h5>Anjali Mehta</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
 
-            <!-- Swiper Navigation & Pagination -->
-            <!-- <div class="swiper-button-next"></div>
-            <div class="swiper-button-prev"></div> -->
+            <!-- Swiper Pagination -->
             <div class="swiper-pagination"></div>
         </div>
 
@@ -289,6 +308,5 @@
         </div>
     </div>
 </section>
-
 
 <?php include('includes/footer.php'); ?>
