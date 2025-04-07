@@ -33,7 +33,7 @@
                         <img src="images/tarot-card.png" alt="Tarot Cards">
                     </div>
                     <h3 class="service-title">Tarot Cards</h3>
-                    <p class="service-description">The art of predicting the future and seeking guidance over life decisions in the most divine manner using a set of spiritually energized cards is Tarot Card Reading.</p>
+                    <p class="service-description">The divine art of Tarot Card Reading uses spiritually energized cards to offer guidance, insight, and clarity about life’s path, choices, and upcoming events.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
@@ -45,7 +45,7 @@
                         <img src="images/numerology.png" alt="Numerology">
                     </div>
                     <h3 class="service-title">Numerology</h3>
-                    <p class="service-description">To the best, Numerology can be described as an Astro-scientific technique of forecasting and rectifying happenings of life that can help you improve the quality of your life.</p>
+                    <p class="service-description">Numerology is an astro-scientific approach that reveals patterns in your life, helping you forecast events and enhance the quality of your personal and professional journey.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
@@ -57,7 +57,7 @@
                         <img src="images/vaastu.png" alt="Vaastu">
                     </div>
                     <h3 class="service-title">Vaastu</h3>
-                    <p class="service-description">A logic known to most of us but really not known enough. Directions of your house that shape up your life is Vaastu Shastra. The idea is to determine the placement of various things at our workplace and residence.</p>
+                    <p class="service-description">Vaastu Shastra uses directional science to bring harmony to your living and workspaces. It aligns your surroundings to attract peace, growth, and success in life.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
@@ -66,10 +66,10 @@
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
-                        <img src="https://via.placeholder.com/120x120" alt="Angel Healing">
+                        <img src="images/angel.png" alt="Angel Healing">
                     </div>
                     <h3 class="service-title">Angel Healing</h3>
-                    <p class="service-description">Angelic Healing works with the love and healing of the angels. The angels guide us through our lives while s/he works with the client. The therapist is a vessel to let the healing of the angels pass. In Angelic Healing, the angels guide the therapist. The therapist is open to this energy and fully guided by the angels.</p>
+                    <p class="service-description">Angel Healing is a practice where divine energy flows through the healer guided by angels. It supports emotional, physical, and spiritual healing with love and light.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
@@ -78,10 +78,10 @@
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
-                        <img src="https://via.placeholder.com/120x120" alt="Meditation">
+                        <img src="images/meditation.png" alt="Meditation">
                     </div>
                     <h3 class="service-title">Meditation</h3>
-                    <p class="service-description">Meditation isn't about becoming a different person, a new person, or even a better person. It's about training in awareness and getting a healthy sense of perspective. You're not trying to turn off your thoughts or feelings. You're learning to observe them without judgment.</p>
+                    <p class="service-description">Meditation helps train your awareness and focus. It’s about observing thoughts without judgment and finding calmness, clarity, and balance in everyday life.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
@@ -93,7 +93,7 @@
                         <img src="images/reiki-healing.png" alt="Reiki Healing">
                     </div>
                     <h3 class="service-title">Reiki Healing</h3>
-                    <p class="service-description">Reiki is universal energy that is channelled through the practitioner's hands to the client. The energy will flow through the client's body cleansing and removing energetic blockages, paying attention to areas that require balance and inspiration to heal.</p>
+                    <p class="service-description">Reiki is a gentle energy healing practice. The practitioner channels universal life force to restore balance, clear blockages, and support the body’s natural healing.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
@@ -102,10 +102,10 @@
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
-                        <img src="https://via.placeholder.com/120x120" alt="Vedic Astrology">
+                        <img src="images/vedic.png" alt="Vedic Astrology">
                     </div>
                     <h3 class="service-title">Vedic Astrology</h3>
-                    <p class="service-description">Vedic Astrology is an ancient belief system originated from the oldest Veda - Rigveda. This unique tradition has passed from generation to generation. It is primarily based on the planetary patterns at the time of our birth and can provide us valuable clues to understand our life's journey.</p>
+                    <p class="service-description">Rooted in the Rigveda, Vedic Astrology uses planetary positions at birth to reveal insights into life’s purpose, challenges, and opportunities for spiritual growth.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
@@ -114,10 +114,10 @@
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
-                        <img src="https://via.placeholder.com/120x120" alt="Lama Fera">
+                        <img src="images/lama.png" alt="Lama Fera">
                     </div>
                     <h3 class="service-title">Lama Fera</h3>
-                    <p class="service-description">Lama Fera Healing is an exceptionally powerful and quick energy healing technique. Buddhist monks of the Himalayas have been using it for centuries. It is a unique therapy that cleanses the energy flow system of the body. It works on a mental, physical, emotional level.</p>
+                    <p class="service-description">Lama Fera is an ancient Buddhist healing technique that quickly removes negativity. It purifies energy, bringing calm and balance at emotional, physical, and mental levels.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
@@ -126,10 +126,10 @@
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
-                        <img src="https://via.placeholder.com/120x120" alt="Akashic Records">
+                        <img src="images/akashic.png" alt="Akashic Records">
                     </div>
                     <h3 class="service-title">Akashic Records</h3>
-                    <p class="service-description">The Akashic Records are an [energetic] library of information that contain the details of your soul and its journey. They span through past lives, present incarnations, and future possibilities.</p>
+                    <p class="service-description">The Akashic Records are an energetic database of your soul’s journey—revealing past lives, present patterns, and future possibilities to guide your spiritual path.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>

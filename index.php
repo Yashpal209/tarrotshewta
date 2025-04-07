@@ -71,7 +71,7 @@
             <div class="col-xl-3 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
-                        <img src="images/tarot-card.png" alt="Tarot Cards">
+                        <img src="images/tarot-card1.png" alt="Tarot Cards">
                     </div>
                     <h3 class="service-title">Tarot Reader</h3>
                     <p class="service-description">A sacred practice that helps predict the future and offers divine guidance through spiritually energized tarot cards.</p>
