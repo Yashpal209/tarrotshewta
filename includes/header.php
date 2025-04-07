@@ -37,10 +37,10 @@
                     <div class="col-lg-6 col-md-6 text-end">
                         <div class="contact-info">
                             <div class="phone hide">
-                                <a href="tel:+919876543210"><i class="fas fa-phone fa-xl text-primary px-2"></i></a>
+                                <a href="tel:+917061887689"><i class="fas fa-phone fa-xl text-primary px-2"></i></a>
                             </div>
                             <div class="whatsapp-icon hide">
-                                <a href="https://wa.me/919876543210" target="_blank"><i class="fab fa-whatsapp fa-xl"></i></a>
+                                <a href="https://wa.me/917061887689" target="_blank"><i class="fab fa-whatsapp fa-xl"></i></a>
                             </div>
                             <div class="social-links hide">
                                 <a  href="https://www.facebook.com/tarrotwithshweta" target="_blank"><i class="fab fa-facebook-f fa-xl text-primary"></i></a>

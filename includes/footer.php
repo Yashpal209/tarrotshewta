@@ -6,14 +6,14 @@
                 <p>
                     Samlong, Ranchi, Jharkhand 834001
                 </p>
-                <p><strong>Phone:</strong> <a href="tel:+919876543210" style="color: #b7b0b6;">+91 9876543210</a></p>
-                <p><strong>Email:</strong> <a href="mailto:tarrotshewta@gmail.com" style="color: #b7b0b6;">tarrotshewta@gmail.com</a></p>
+                <p><strong>Phone:</strong> <a href="tel:+917061887689" style="color: #b7b0b6;">+91 7061887689</a></p>
+                <p><strong>Email:</strong> <a href="mailto:tarrotwithshweta@gmail.com" style="color: #b7b0b6;">tarrotwithshweta@gmail.com</a></p>
                 <div class="social-links mt-3">
-                    <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
-                    <a href="#" class="social-icon"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#" class="social-icon"><i class="fab fa-instagram"></i></a>
-                    <a href="#" class="social-icon"><i class="fab fa-linkedin-in"></i></a>
-                    <a href="#" class="social-icon"><i class="fab fa-youtube"></i></a>
+                    <a href="http://twitter.com/" class="social-icon"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/tarrotwithshweta" class="social-icon"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.instagram.com/tarrotwithshweta/" class="social-icon"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/" class="social-icon"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://www.youtube.com/" class="social-icon"><i class="fab fa-youtube"></i></a>
                 </div>
             </div>
 

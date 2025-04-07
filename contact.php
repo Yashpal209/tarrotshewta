@@ -44,7 +44,7 @@
                         </div>
                         <div class="content">
                             <h5 class="mb-1">Phone Number</h5>
-                            <p class="mb-0"><a href="tel:+919876543210">+91 9876543210</a></p>
+                            <p class="mb-0"><a href="tel:+917061887689">+91 7061887689</a></p>
                         </div>
                     </div>
 
@@ -54,7 +54,7 @@
                         </div>
                         <div class="content">
                             <h5 class="mb-1">Email Address</h5>
-                            <p class="mb-0"><a href="mailto:tarrotshewta@gmail.com">tarrotshewta@gmail.com</a></p>
+                            <p class="mb-0"><a href="mailto:tarrotwithshweta@gmail.com">tarrotwithshweta@gmail.com</a></p>
                         </div>
                     </div>
 
@@ -72,11 +72,11 @@
                 <div class=" mt-4">
                     <h5>Connect With Us</h5>
                     <div class="d-flex mt-2">
-                        <a href="#" class="social-icon me-2"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#" class="social-icon me-2"><i class="fab fa-twitter"></i></a>
-                        <a href="#" class="social-icon me-2"><i class="fab fa-instagram"></i></a>
-                        <a href="#" class="social-icon me-2"><i class="fab fa-linkedin-in"></i></a>
-                        <a href="#" class="social-icon"><i class="fab fa-youtube"></i></a>
+                    <a href="http://twitter.com/" class="social-icon me-2"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/tarrotwithshweta" class="social-icon me-2"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.instagram.com/tarrotwithshweta/" class="social-icon me-2"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/" class="social-icon me-2"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://www.youtube.com/" class="social-icon"><i class="fab fa-youtube"></i></a>
                     </div>
                 </div>
             </div>
@@ -153,7 +153,7 @@
                         </h2>
                         <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                             <div class="accordion-body">
-                                You can book a session by visiting our <a href="booking.php">booking page</a>, calling us directly at +91 87970-68771, or by sending us an email at tarrotshewta@gmail.com. We'll get back to you as soon as possible to confirm your appointment.
+                                You can book a session by visiting our <a href="booking.php">booking page</a>, calling us directly at +91 87970-68771, or by sending us an email at tarrotwithshweta@gmail.com. We'll get back to you as soon as possible to confirm your appointment.
                             </div>
                         </div>
                     </div>

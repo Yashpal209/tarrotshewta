@@ -24,33 +24,33 @@
             <div class="col-lg-8 mx-auto">
                 <div class="booking-form-wrapper p-4 border rounded shadow-sm bg-white">
                     <h2 class="section-title text-center mb-4">Book Your Session with Tarrot Shewta</h2>
-                    <p class="text-center mb-4">Fill out the form below to schedule your appointment. We'll get back to you to confirm the details.</p>
+                    <p class="text-center fw-bold mb-4">Fill out the form below to schedule your appointment. We'll get back to you to confirm the details.</p>
 
                     <form id="bookingForm" action="#" method="post">
                         <div class="row">
                             <div class="col-md-6 mb-3">
-                                <label for="firstName" class="form-label">First Name*</label>
+                                <label for="firstName" class="form-label">First Name<span style="color: red;">*</span></label>
                                 <input type="text" class="form-control" id="firstName" name="firstName" required>
                             </div>
                             <div class="col-md-6 mb-3">
-                                <label for="lastName" class="form-label">Last Name*</label>
+                                <label for="lastName" class="form-label">Last Name<span style="color: red;">*</span></label>
                                 <input type="text" class="form-control" id="lastName" name="lastName" required>
                             </div>
                         </div>
 
                         <div class="row">
                             <div class="col-md-6 mb-3">
-                                <label for="email" class="form-label">Email Address*</label>
+                                <label for="email" class="form-label">Email Address<span style="color: red;">*</span></label>
                                 <input type="email" class="form-control" id="email" name="email" required>
                             </div>
                             <div class="col-md-6 mb-3">
-                                <label for="phone" class="form-label">Phone Number*</label>
+                                <label for="phone" class="form-label">Phone Number<span style="color: red;">*</span></label>
                                 <input type="tel" class="form-control" id="phone" name="phone" required>
                             </div>
                         </div>
 
                         <div class="mb-3">
-                            <label for="service" class="form-label">Select Service*</label>
+                            <label for="service" class="form-label">Select Service<span style="color: red;">*</span></label>
                             <select class="form-select" id="service" name="service" required>
                                 <option value="" selected disabled>Choose a service...</option>
                                 <option value="tarot-reading">Tarot Card Reading</option>
@@ -66,7 +66,7 @@
                         </div>
 
                         <div class="mb-3">
-                            <label for="sessionType" class="form-label">Session Type*</label>
+                            <label for="sessionType" class="form-label">Session Type<span style="color: red;">*</span></label>
                             <select class="form-select" id="sessionType" name="sessionType" required>
                                 <option value="" selected disabled>Choose session type...</option>
                                 <option value="in-person">In-Person</option>
@@ -77,11 +77,11 @@
 
                         <div class="row">
                             <div class="col-md-6 mb-3">
-                                <label for="preferredDate" class="form-label">Preferred Date*</label>
+                                <label for="preferredDate" class="form-label">Preferred Date<span style="color: red;">*</span></label>
                                 <input type="date" class="form-control" id="preferredDate" name="preferredDate" required>
                             </div>
                             <div class="col-md-6 mb-3">
-                                <label for="preferredTime" class="form-label">Preferred Time*</label>
+                                <label for="preferredTime" class="form-label">Preferred Time<span style="color: red;">*</span></label>
                                 <select class="form-select" id="preferredTime" name="preferredTime" required>
                                     <option value="" selected disabled>Select a time...</option>
                                     <option value="10:00">10:00 AM</option>
@@ -121,7 +121,7 @@
 
                         <div class="mb-3 form-check">
                             <input type="checkbox" class="form-check-input" id="termsAgree" required>
-                            <label class="form-check-label" for="termsAgree">I agree to the <a href="terms.php">terms and conditions</a>*</label>
+                            <label class="form-check-label" for="termsAgree">I agree to the <a href="terms.php">terms and conditions</a><span style="color: red;">*</span></label>
                         </div>
 
                         <div class="mb-3 form-check">
@@ -132,8 +132,8 @@
                         <button type="submit" class="btn btn-primary w-100">Book Now</button>
 
                         <div class="mt-3 small text-muted">
-                            <p>* Required fields</p>
-                            <p>Note: You will receive a confirmation email once your booking is processed. Payment details will be shared after booking confirmation.</p>
+                            <p><span style="color: red;">*</span> Required fields</p>
+                            <p><b>Note:</b> You will receive a confirmation email once your booking is processed. Payment details will be shared after booking confirmation.</p>
                         </div>
                     </form>
                 </div>

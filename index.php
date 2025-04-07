@@ -42,19 +42,18 @@
             </div>
         </div>
         <div class="row">
+            <div class="col-lg-8 col-md-12">
+                <h3 class="section-title" style="color: white;">Shweta srivastva</h3>
+                <div class="trainer-bio">
+                    <p>Shweta is a certified tarrot reader, psychic reader. Have practiced from last 10 years and helped thousands of people solving their issues. Now I am available in social media to guide people with the help of my spiritual energies, Tarot card reading, Candle Healing, Reiki Healing, Numerology, Astrology, Vaastu - Shastra, Switchwords, Angels Healing, Love readings and Love Spells, Angels Reading, and Much more...</p>
+                </div>
+            </div>
             <div class="col-lg-4 col-md-12 text-center">
                 <div class="trainer-image">
                     <img src="images/sweta.jpg" alt="Shweta - Tarrot Card Reader">
                 </div>
-                <h3 class="trainer-name">Shweta</h3>
+                <h3 class="trainer-name">Shweta srivastva</h3>
                 <p class="trainer-title">TARROCARD READER</p>
-            </div>
-            <div class="col-lg-8 col-md-12">
-
-                <h3 class="section-title" style="color: white;">Shweta</h3>
-                <div class="trainer-bio">
-                    <p>Shweta is a certified tarrot reader, psychic reader. Have practiced from last 10 years and helped thousands of people solving their issues. Now I am available in social media to guide people with the help of my spiritual energies, Tarot card reading, Candle Healing, Reiki Healing, Numerology, Astrology, Vaastu - Shastra, Switchwords, Angels Healing, Love readings and Love Spells, Angels Reading, and Much more...</p>
-                </div>
             </div>
         </div>
     </div>
@@ -187,7 +186,7 @@
                                             <h5 class="mb-1 fw-bold">Positive & Healing Energy</h5>
                                         </div>
                                     </div>
-                                </div>  
+                                </div>
 
                             </div>
                         </div>
