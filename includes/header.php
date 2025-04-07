@@ -75,10 +75,10 @@
                             Services
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="services.php">Tarrot reader</a></li>
-                                <li><a class="dropdown-item" href="services.php">Numerologist </a></li>
-                                <li><a class="dropdown-item" href="services.php">Healer</a></li>
-                                <li><a class="dropdown-item" href="services.php">Name Corrector</a></li>
+                                <li><a class="dropdown-item" href="reader.php">Tarrot reader</a></li>
+                                <li><a class="dropdown-item" href="numerologist.php">Numerologist </a></li>
+                                <li><a class="dropdown-item" href="healer.php">Healer</a></li>
+                                <li><a class="dropdown-item" href="name.php">Name Corrector</a></li>
                             </ul>
                         </li>
                         <li class="nav-item">

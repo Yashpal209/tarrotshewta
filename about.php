@@ -27,11 +27,14 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <h2 class="section-title">WHO IS TARROT SHEWTA?</h2>
+                <h2 class="section-title">ABOUT ME</h2>
                 <div class="about-text">
-                    <p>Welcome to Tarrot Shewta.... From a young age, I had an intense connection with the universe. My abilities allow me to pick up information and feelings from people, as well as vibrations and messages from spirits and souls. Using my spiritual energies and hard intuition, I want to help provide you with the information you're seeking whether it be answers regarding your present, past, or future.</p>
-                    <p>It's been my experience that many have the knowledge they seek deep within them, and simply need the right spiritual guidance to find the answers they have buried inside. I would like to thank you for believing and supporting Tarrot Shewta.</p>
-                    <p>With over a decade of experience as a certified tarot reader and psychic reader, I have helped thousands of people solving their issues. My mission is to guide people using my spiritual energies and various methodologies including Tarot card reading, Candle Healing, Reiki Healing, Numerology, Astrology, Vaastu - Shastra, Switchwords, Angels Healing, Love readings, and more.</p>
+                    <p>Tarrot with Shweta is your gateway to spiritual guidance, insight, healing, and the transformational power of crystals. I believe that using the magic of power may help us travel a successful road, and I am thrilled to share this great trip with you all.</p>
+                    <p>With a strong connection to the cosmos, a lifelong fascination with the metaphysical, and a thorough study of the tarot reader, numerologist, healer, name corrector specialist, I had the privilege of guiding many people through life's rich tapestry. As a well-known tarrot reader, I consider myself fortunate to have the opportunity to interact with individuals from all walks of life and provide them with tremendous clarity, hope, and insights.</p>
+                    <p>I am an enthusiastic advocate of holistic well-being and feel that the universe gives us a variety of tools to nourish our soul, body, and mind. This is why I have always committed myself to creating individualized healing as a tarrot reader, numerologist, healer, name corrector specialist.</p>
+                    <p>From tarrot readings that enlighten your path to personalized crystal goods that connect with your specific energy, tarrot with Shweta offers a wealth of tools. I am thus here to accompany you on this incredible trip if you are looking for clarity, personal development, or healing. </p>
+                    <p>I appreciate you coming along on this enchanted journey of self-discovery and transformation. Together, we will also discover the universe's mysteries, establish a connection with your higher self, and bring your dream the world to life. </p>
+                    <p class="fw-bold">With guidance and love,<br>Shweta Srivastva  </p>
                 </div>
             </div>
         </div>

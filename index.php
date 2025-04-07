@@ -37,7 +37,6 @@
                 <h3 class="about-title">WHO IS TARROT WITH SHWETA?</h3>
                 <div class="about-text">
                     <p>Welcome to Tarrot with Shweta.... From a young age, I had an intense connection with the universe. My abilities allow me to pick up information and feelings from people, as well as vibrations and messages from spirits and souls. Using my spiritual energies and hard intuition, I want to help provide you with the information you're seeking whether it be answers regarding your present, past, or future.</p>
-                    <p>It's been my experience that many have the knowledge they seek deep within them, and simply need the right spiritual guidance to find the answers they have buried inside. I would like to thank you for believing and supporting Tarrot with Shweta.</p>
                 </div>
             </div>
         </div>
@@ -73,7 +72,7 @@
                     <div class="service-icon">
                         <img src="images/tarot-card1.png" alt="Tarot Cards">
                     </div>
-                    <h3 class="service-title">Tarot Reader</h3>
+                    <h3 class="service-title">Tarrot Reader</h3>
                     <p class="service-description">A sacred practice that helps predict the future and offers divine guidance through spiritually energized tarot cards.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
@@ -83,7 +82,7 @@
                     <div class="service-icon">
                         <img src="images/numerology.png" alt="Numerology">
                     </div>
-                    <h3 class="service-title">Numerology</h3>
+                    <h3 class="service-title">Numerologist</h3>
                     <p class="service-description">A powerful technique using numbers to forecast life events, offering insights and solutions for a balanced, successful life.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
@@ -91,19 +90,19 @@
             <div class="col-xl-3 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
-                        <img src="images/vaastu.png" alt="Vaastu">
+                        <img src="images/reiki-healing.png" alt="Vaastu">
                     </div>
-                    <h3 class="service-title">Vaastu</h3>
-                    <p class="service-description">Ancient wisdom that optimizes the energy of your home and workplace by aligning spaces for positivity and prosperity.</p>
+                    <h3 class="service-title">Healer</h3>
+                    <p class="service-description">A holistic energy practice that clears blockages, restores balance, and promotes deep healing for mind, body, and soul.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
             <div class="col-xl-3 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
-                        <img src="images/reiki-healing.png" alt="Reiki Healing">
+                        <img src="images/name.png" alt="Reiki Healing">
                     </div>
-                    <h3 class="service-title">Reiki Healing</h3>
+                    <h3 class="service-title">Name Corrector</h3>
                     <p class="service-description">A holistic energy practice that clears blockages, restores balance, and promotes deep healing for mind, body, and soul.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
