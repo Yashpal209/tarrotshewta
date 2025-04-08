@@ -22,8 +22,9 @@
                 <ul class="list-unstyled">
                     <li><a href="index.php">Home</a></li>
                     <li><a href="about.php">About us</a></li>
-                    <li><a href="gallery.php">Gallery</a></li>
-                    <li><a href="contact.php">Contact</a></li>
+                    <li><a href="services.php">Services</a></li>
+                    <li><a href="contact.php">Contact us</a></li>
+                    <li><a href="booking.php">Booking</a></li>
                     <li><a href="terms.php">Terms & Conditions</a></li>
                     <li><a href="privacy.php">Privacy policy</a></li>
                 </ul>
@@ -32,12 +33,10 @@
             <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
                 <h5 class="text-uppercase">Our Services</h5>
                 <ul class="list-unstyled">
-                    <li><a href="services.php">Tarrot Cards</a></li>
-                    <li><a href="services.php">Numerology</a></li>
-                    <li><a href="services.php">Vaastu</a></li>
-                    <li><a href="services.php">Angel Healing</a></li>
-                    <li><a href="services.php">Meditation</a></li>
-                    <li><a href="services.php">Reiki Healing</a></li>
+                    <li><a class="dropdown-item" href="reader.php">Tarrot reader</a></li>
+                    <li><a class="dropdown-item" href="numerologist.php">Numerologist </a></li>
+                    <li><a class="dropdown-item" href="healer.php">Healer</a></li>
+                    <li><a class="dropdown-item" href="name.php">Name Corrector</a></li>
                 </ul>
             </div>
         </div>
@@ -130,24 +129,32 @@
     });
 </script>
 <script>
-        var swiper = new Swiper(".key-slider", {
-            loop: true,
-            slidesPerView: "auto",
-            spaceBetween: 20,
-            speed: 3000,
-            autoplay: {
-                delay: 0,
-                disableOnInteraction: false,
+    var swiper = new Swiper(".key-slider", {
+        loop: true,
+        slidesPerView: "auto",
+        spaceBetween: 20,
+        speed: 3000,
+        autoplay: {
+            delay: 0,
+            disableOnInteraction: false,
+        },
+        freeMode: true,
+        breakpoints: {
+            320: {
+                slidesPerView: 1
             },
-            freeMode: true,
-            breakpoints: {
-                320: { slidesPerView: 1 },
-                480: { slidesPerView: 2 },
-                768: { slidesPerView: 3 },
-                1024: { slidesPerView: 4 }
+            480: {
+                slidesPerView: 2
+            },
+            768: {
+                slidesPerView: 3
+            },
+            1024: {
+                slidesPerView: 4
             }
-        });
-    </script>
+        }
+    });
+</script>
 <script src="js/main.js"></script>
 </body>
 

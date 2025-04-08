@@ -29,11 +29,11 @@
             <!-- Tarot Cards -->
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="service-item">
-                    <div class="service-icon">
-                        <img src="images/tarot-card.png" alt="Tarrot reader">
+                <div class="service-icon">
+                        <img src="images/tarot-card1.png" alt="Tarot Cards">
                     </div>
-                    <h3 class="service-title">Tarrot Reader</h3>
-                    <p class="service-description">The divine art of Tarot Card Reading uses spiritually energized cards to offer guidance, insight, and clarity about life’s path, choices, and upcoming events.</p>
+                    <h3 class="service-title">Tarot Reader</h3>
+                    <p class="service-description">Feeling  uncertain about your path? It offers guidance in love, career, health, and personal growth. Discover clarity through ancient wisdom and intuitive insight in a safe, nurturing session tailored just for you.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>

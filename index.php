@@ -1,6 +1,6 @@
 <?php include('includes/header.php'); ?>
 
-
+<hr class="p-0 m-0">
 <!-- Slider Section -->
 <section class="main-slider">
     <div class="owl-carousel owl-theme hero-slider">
@@ -8,24 +8,23 @@
             <div class="slider-item" style="background-image: url('images/slider/1.png');">
                 <div class="container">
                     <div class="slider-content">
-                        <h1>Welcome to Tarot with Shweta</h1>
-                        <p>Discover your path with accurate tarot readings</p>
+                        <!-- <h1>Welcome to Tarot with Shweta</h1> -->
+                        <!-- <p>Discover your path with accurate tarot readings</p> -->
                         <a href="booking.php" class="btn">Book a Reading</a>
                     </div>
                 </div>
             </div>
         </div>
         <div class="item">
-            <div class="slider-item" style="background-image: url('images/slider/2.png');">
-            </div>
+            <div class="slider-item" style="background-image: url('images/slider/2.png');"></div>
         </div>
         <div class="item">
-            <div class="slider-item" style="background-image: url('images/slider/3.png');">
-            </div>
+            <div class="slider-item" style="background-image: url('images/slider/3.png');"></div>
         </div>
     </div>
 </section>
 
+<hr class="p-0 m-0">
 <!-- About Section -->
 <section class="trainer-section">
     <div class="container">
@@ -34,7 +33,7 @@
                 <h2 class="section-title" style="color: white;">About us</h2>
             </div>
             <div class="col-12">
-                <h3 class="about-title">WHO IS TARROT WITH SHWETA?</h3>
+                <!-- <h3 class="about-title">WHO IS TARROT WITH SHWETA?</h3> -->
                 <div class="about-text">
                     <p>Welcome to Tarrot with Shweta.... From a young age, I had an intense connection with the universe. My abilities allow me to pick up information and feelings from people, as well as vibrations and messages from spirits and souls. Using my spiritual energies and hard intuition, I want to help provide you with the information you're seeking whether it be answers regarding your present, past, or future.</p>
                 </div>
@@ -46,10 +45,10 @@
                     <img src="images/sweta.jpg" alt="Shweta - Tarrot Card Reader">
                 </div>
                 <h3 class="trainer-name">Shweta Srivastva</h3>
-                <p class="trainer-title">TARROCARD READER</p>
+                <p class="trainer-title">TARROTCARD READER</p>
             </div>
             <div class="col-lg-8 col-md-12">
-                <h3 class="section-title" style="color: white;">Shweta Srivastva</h3>
+                <h3 class="section-title" style="color: white;">WHO IS TARROT WITH SHWETA?</h3>
                 <div class="trainer-bio">
                     <p>Shweta is a certified tarrot reader, psychic reader. Have practiced from last 10 years and helped thousands of people solving their issues. Now I am available in social media to guide people with the help of my spiritual energies, Tarot card reading, Candle Healing, Reiki Healing, Numerology, Astrology, Vaastu - Shastra, Switchwords, Angels Healing, Love readings and Love Spells, Angels Reading, and Much more...</p>
                 </div>
@@ -72,8 +71,8 @@
                     <div class="service-icon">
                         <img src="images/tarot-card1.png" alt="Tarot Cards">
                     </div>
-                    <h3 class="service-title">Tarrot Reader</h3>
-                    <p class="service-description">A sacred practice that helps predict the future and offers divine guidance through spiritually energized tarot cards.</p>
+                    <h3 class="service-title">Tarot Reader</h3>
+                    <p class="service-description">Feeling  uncertain about your path? It offers guidance in love, career, health, and personal growth. Discover clarity through ancient wisdom and intuitive insight in a safe, nurturing session tailored just for you.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
@@ -83,32 +82,32 @@
                         <img src="images/numerology.png" alt="Numerology">
                     </div>
                     <h3 class="service-title">Numerologist</h3>
-                    <p class="service-description">A powerful technique using numbers to forecast life events, offering insights and solutions for a balanced, successful life.</p>
+                    <p class="service-description">Numbers shape your destiny more than you know. From your birth date to your name, numerology helps decode life patterns, strengths, and challenges. Understand your unique empowered life choices.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
             <div class="col-xl-3 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
-                        <img src="images/reiki-healing.png" alt="Vaastu">
+                        <img src="images/reiki-healing.png" alt="Healing">
                     </div>
                     <h3 class="service-title">Healer</h3>
-                    <p class="service-description">A holistic energy practice that clears blockages, restores balance, and promotes deep healing for mind, body, and soul.</p>
+                    <p class="service-description">Feeling tired, anxious, or out of balance? Energy healing helps release stress and emotional blockages, restoring peace and clarity. Reconnect with your inner self and recharge your mind, body, and spirit.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
             <div class="col-xl-3 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
-                        <img src="images/name.png" alt="Reiki Healing">
+                        <img src="images/name.png" alt="Name Correction">
                     </div>
                     <h3 class="service-title">Name Corrector</h3>
-                    <p class="service-description">A holistic energy practice that clears blockages, restores balance, and promotes deep healing for mind, body, and soul.</p>
+                    <p class="service-description">Your name holds energetic power. Through numerology, we adjust your name to better align with your destiny, attracting positive outcomes and helping you live in harmony with your soul’s purpose.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
-
         </div>
+
         <div class="row mt-4">
             <div class="col-12 text-center">
                 <a href="services.php" class="btn btn-primary">See More Services...</a>

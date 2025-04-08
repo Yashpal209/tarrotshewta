@@ -92,7 +92,7 @@ a:hover {
 }
 /* Header Styles */
 .top-bar {
-    background-image: linear-gradient(233deg,#ffffffc4, rgb(252, 253, 254)), url(../images/slider/1.png);
+    background-image: linear-gradient(233deg,#ffffffc4, rgb(252, 253, 254)), url(../images/slider/6.png);
     background-size: cover;
     background-position: center;
     padding: 5px 0;
@@ -127,15 +127,17 @@ a:hover {
 
 .logo-text p {
     margin: 0;
-    font-size: 1rem;
+    font-size: 1.1rem;
     font-weight: 600;
     color: #d80505;
+    font-family: 'Arrus BT', serif; 
 }
 
 .logo-text p:nth-child(2) {
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     font-weight: 600;
     color: #28497f;
+    font-family: 'Caviar Dreams', sans-serif; 
 }
 
 .contact-info {
@@ -232,27 +234,30 @@ a:hover {
 
  /* Main Slider Styles */
  .main-slider {
+    width: 100%;
     position: relative;
+    overflow: hidden;
 }
 
 .hero-slider .item {
-    position: relative;
+    width: 100%;
 }
 
 .slider-item {
     position: relative;
-    height: 500px;
+    width: 100%;
+    height: 470px;
     background-size: cover;
     background-position: center;
 }
 
 .slider-content {
     position: absolute;
-    top: 55%;
-    left: 27%;
+    top: 85%;
+    left: 24%;
     transform: translate(-50%, -50%);
     z-index: 2;
-    max-width: 80%;
+    max-width: 90%;
     text-align: center;
     color: #fff;
 }
@@ -285,6 +290,15 @@ a:hover {
     transform: translateY(-3px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
+
+/* Make sure container is full width inside slider */
+.slider-item .container {
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
 
 /* Owl Carousel Navigation */
 .owl-theme .owl-nav {
@@ -458,6 +472,7 @@ a:hover {
 .service-description {
     margin-bottom: 20px;
     color: var(--text-color);
+    text-align: justify;
 }
 
 .book-btn {
@@ -589,7 +604,7 @@ a:hover {
 /* About Trainer Section */
 .trainer-section {
     padding: 30px 0;
-    background-image: linear-gradient(#8d237ba1, rgb(4 11 26)), url(../images/slider/1.png);
+    background-image: linear-gradient(#8d237ba1, rgb(4 11 26)), url(../images/slider/6.png);
     /* background-color: var(--bg-dark); */
     color: var(--light-color);
 }
@@ -671,7 +686,7 @@ a:hover {
 /* Footer Styles */
 .footer {
     background-color: var(--primary-color);
-    background-image:linear-gradient(#8d237ba1, rgb(4 11 26)), url(../images/slider/1.png);
+    background-image:linear-gradient(#8d237ba1, rgb(4 11 26)), url(../images/slider/6.png);
     color: rgba(255, 255, 255, 0.8);
     padding-top: 70px;
 }
@@ -761,8 +776,11 @@ a:hover {
     color: var(--primary-color);
 }
 
-
-
+@media (max-width: 1024px) {
+    .slider-item {
+        height: 300px;
+    }
+}
 /* Responsive Styles */
 @media (max-width: 991px) {
     .contact-info {
@@ -783,7 +801,7 @@ a:hover {
     }
 
     .slider-item {
-        height: 500px;
+        height: 300px;
     }
 
     .slider-content {
@@ -823,7 +841,7 @@ a:hover {
     }
 
     .slider-item {
-        height: 400px;
+        height: 200px;
     }
 
     .slider-content {
@@ -846,5 +864,9 @@ a:hover {
     }
 }
 
-
+@media (max-width: 425px)  {
+    .slider-item {
+        height: 130px;
+    }
+}
 
