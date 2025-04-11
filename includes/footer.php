@@ -13,7 +13,7 @@
                     <a href="https://www.facebook.com/tarrotwithshweta" class="social-icon"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://www.instagram.com/tarrotwithshweta/" class="social-icon"><i class="fab fa-instagram"></i></a>
                     <!-- <a href="https://www.linkedin.com/" class="social-icon"><i class="fab fa-linkedin-in"></i></a> -->
-                    <a href="https://youtube.com/shorts/8zDRuzNhMFo?si=uxKQrQHtVORQKs6Q" class="social-icon"><i class="fab fa-youtube"></i></a>
+                    <a href="https://www.youtube.com/@tarrotwithshweta" class="social-icon"><i class="fab fa-youtube"></i></a>
                 </div>
             </div>
 

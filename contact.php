@@ -76,7 +76,7 @@
                     <a href="https://www.facebook.com/tarrotwithshweta" class="social-icon me-2"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://www.instagram.com/tarrotwithshweta/" class="social-icon me-2"><i class="fab fa-instagram"></i></a>
                     <!-- <a href="https://www.linkedin.com/" class="social-icon me-2"><i class="fab fa-linkedin-in"></i></a> -->
-                    <a href="https://youtube.com/shorts/8zDRuzNhMFo?si=uxKQrQHtVORQKs6Q" class="social-icon"><i class="fab fa-youtube"></i></a>
+                    <a href="https://www.youtube.com/@tarrotwithshweta" class="social-icon"><i class="fab fa-youtube"></i></a>
                     </div>
                 </div>
             </div>
@@ -109,7 +109,7 @@
                         </div>
                         <div class="mb-3 form-check">
                             <input type="checkbox" class="form-check-input" id="privacy" required>
-                            <label class="form-check-label" for="privacy">I agree to the <a href="privacy.php">privacy policy</a></label>
+                            <label class="form-check-label" for="privacy">I agree to all <a href="privacy.php"> privacy and policy</a></label>
                         </div>
                         <button type="submit"  name="contactus" class="btn btn-primary">Send Message</button>
                     </form>
