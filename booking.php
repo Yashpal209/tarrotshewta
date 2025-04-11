@@ -397,11 +397,7 @@
             <div class="swiper-pagination"></div>
         </div>
 
-        <div class="row mt-4">
-            <div class="col-12 text-center">
-                <a href="testimonials.php" class="btn btn-primary">See More Testimonials...</a>
-            </div>
-        </div>
+      
     </div>
 </section>
 
