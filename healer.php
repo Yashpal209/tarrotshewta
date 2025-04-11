@@ -5,11 +5,11 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h1 class="page-title">Healer Services</h1>
+                <h1 class="page-title">Crystal Healer</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Healer Services</li>
+                        <li class="breadcrumb-item active" aria-current="page">Crystal Healer</li>
                     </ol>
                 </nav>
             </div>
@@ -21,20 +21,20 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2 class="section-title">Healer Services</h2>
+                <h2 class="section-title">Crystal Healer</h2>
             </div>
             <div class="col-12">
-                <h3 class="about-title">Reconnect with your true self. Heal from within. Embrace peace, balance, and emotional freedom.</h3>
+                <h3 class="about-title">Align your energy with the natural vibrations of crystals. Embrace harmony, healing, and inner clarity.</h3>
                 <div class="about-text">
-                    <p>Life often moves so fast that we forget to pause and nurture ourselves. Over time, stress, emotional pain, and unresolved energy begin to weigh us down. You may feel tired, anxious, disconnected, or stuck, not just physically but emotionally and spiritually too.</p>
-                    <p>At Tarrot with Shweta, our healing sessions are designed to gently guide you back to a place of inner harmony. Through intuitive energy work and spiritual guidance, Shweta creates a safe and sacred space where true transformation can begin.</p>
+                    <p>Life can pull us in many directions, creating emotional, mental, and energetic imbalances. When left unchecked, these imbalances can manifest as stress, fatigue, or disconnection from our true selves.</p>
+                    <p>At Tarrot with Shweta, our crystal healing sessions invite you to experience the grounding and transformative energy of healing stones. With Shweta’s intuitive guidance, each session is a sacred space for you to reconnect and recharge.</p>
                 </div>
             </div>
             <div class="col-12">
-                <h3 class="about-title">What is Energy Healing?</h3>
+                <h3 class="about-title">What is Crystal Healing?</h3>
                 <div class="about-text">
-                    <p>Everything in this universe, including our bodies, is made up of energy. When our energy is blocked or imbalanced, it can manifest as physical illness, emotional distress, or mental confusion. Healing is not just about curing symptoms but restoring the flow of energy to its most natural state.</p>
-                    <p>Shweta combines a variety of techniques such as Reiki, chakra balancing, aura cleansing, and intuitive healing to cleanse energetic blocks and activate the body’s natural ability to heal itself.</p>
+                    <p>Crystal healing is a holistic, non-invasive practice that uses the energetic properties of crystals to support physical, emotional, and spiritual well-being. Each crystal carries a specific vibration that can help balance and cleanse the body's energy field.</p>
+                    <p>Shweta works with a wide variety of crystals—such as amethyst, rose quartz, citrine, and black tourmaline—to intuitively place them on and around your body, restoring energetic alignment and promoting deep healing.</p>
                 </div>
             </div>
         </div>
@@ -43,17 +43,17 @@
 
 <section class="py-5 bg-white">
   <div class="container">
-    <h5 class="mt-4 fw-semibold">What Can a Healing Session Help You With?</h5>
+    <h5 class="mt-4 fw-semibold">What Can a Crystal Healing Session Help You With?</h5>
     <ul class="list-group list-group-flush">
-      <li class="list-group-item">Releasing past traumas and emotional wounds</li>
-      <li class="list-group-item">Balancing your chakras and clearing energy blockages</li>
-      <li class="list-group-item">Reducing stress, anxiety, and mental fatigue</li>
-      <li class="list-group-item">Gaining clarity and inner peace during tough times</li>
-      <li class="list-group-item">Strengthening your connection to your higher self</li>
-      <li class="list-group-item">Boosting your emotional and physical well-being</li>
-      <li class="list-group-item">Enhancing your spiritual growth and intuition</li>
+      <li class="list-group-item">Releasing emotional blockages and old patterns</li>
+      <li class="list-group-item">Balancing your chakras and auric field</li>
+      <li class="list-group-item">Reducing anxiety, stress, and tension</li>
+      <li class="list-group-item">Bringing mental clarity and inner peace</li>
+      <li class="list-group-item">Strengthening your intuition and inner guidance</li>
+      <li class="list-group-item">Supporting physical and energetic detoxification</li>
+      <li class="list-group-item">Enhancing spiritual awareness and connection</li>
     </ul>
-    <p class="mt-4 fst-italic">Each session is uniquely tailored to what your soul needs most at that moment. You don’t need to have the answers; just bring your intention and willingness to heal.</p>
+    <p class="mt-4 fst-italic">Every session is intuitively guided, using the crystals your energy resonates with most. All you need to bring is your openness to receive and heal.</p>
   </div>
 </section>
 
@@ -61,8 +61,8 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <h3 class="mb-4">Ready to begin your spiritual journey?</h3>
-                <p class="mb-4">Book a session now and discover the guidance you've been seeking.</p>
+                <h3 class="mb-4">Ready to experience the power of crystals?</h3>
+                <p class="mb-4">Book your session now and begin your journey toward energetic balance and renewal.</p>
                 <div class="cta-buttons">
                     <a href="booking.php" class="btn btn-lg btn-primary me-3">Book a Session</a>
                     <a href="contact.php" class="btn btn-lg btn-outline-danger">Contact Us</a>
