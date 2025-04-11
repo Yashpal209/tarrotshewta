@@ -29,11 +29,11 @@
             <!-- Tarot Cards -->
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="service-item">
-                <div class="service-icon">
+                    <div class="service-icon">
                         <img src="images/tarot-card1.png" alt="Tarot Cards">
                     </div>
                     <h3 class="service-title">Tarot Reader</h3>
-                    <p class="service-description">Feeling  uncertain about your path? It offers guidance in love, career, health, and personal growth. Discover clarity through ancient wisdom and intuitive insight in a safe, nurturing session tailored just for you.</p>
+                    <p class="service-description">Gain insight into your life's direction with a tarot session. Discover answers about love, career, or health in a guided, intuitive reading that brings clarity and peace of mind.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
@@ -45,7 +45,7 @@
                         <img src="images/numerology.png" alt="Numerology">
                     </div>
                     <h3 class="service-title">Numerology</h3>
-                    <p class="service-description">Numerology is an astro-scientific approach that reveals patterns in your life, helping you forecast events and enhance the quality of your personal and professional journey.</p>
+                    <p class="service-description">Decode your life's patterns using numbers. Numerology provides deeper understanding of your strengths, challenges, and destiny, helping you navigate your personal and professional journey with confidence.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
@@ -57,19 +57,19 @@
                         <img src="images/vaastu.png" alt="Vaastu">
                     </div>
                     <h3 class="service-title">Vaastu</h3>
-                    <p class="service-description">Vaastu Shastra uses directional science to bring harmony to your living and workspaces. It aligns your surroundings to attract peace, growth, and success in life.</p>
+                    <p class="service-description">Balance your home and workspaces with Vaastu. This ancient science uses directions and energy alignment to promote harmony, positivity, and success in every aspect of your life.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
 
-            <!-- Angel Healing -->
+            <!-- Crystal Healer -->
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
-                        <img src="images/angel.png" alt="Angel Healing">
+                        <img src="images/crystal.png" alt="Crystal Healer">
                     </div>
-                    <h3 class="service-title">Angel Healing</h3>
-                    <p class="service-description">Angel Healing is a practice where divine energy flows through the healer guided by angels. It supports emotional, physical, and spiritual healing with love and light.</p>
+                    <h3 class="service-title">Crystal Healer</h3>
+                    <p class="service-description">Crystal healing channels divine energy guided by angels. It gently restores emotional, physical, and spiritual balance, promoting inner peace and well-being through the power of natural stones.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
@@ -81,59 +81,24 @@
                         <img src="images/meditation.png" alt="Meditation">
                     </div>
                     <h3 class="service-title">Meditation</h3>
-                    <p class="service-description">Meditation helps train your awareness and focus. It’s about observing thoughts without judgment and finding calmness, clarity, and balance in everyday life.</p>
+                    <p class="service-description">Experience inner calm through meditation. Learn to observe your thoughts without judgment, build focus, and find emotional clarity and balance in your daily life and decisions.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
 
-            <!-- Reiki Healing -->
+            <!-- Gemologist -->
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
-                        <img src="images/reiki-healing.png" alt="Reiki Healing">
+                        <img src="images/gemologist.png" alt="Gemologist">
                     </div>
-                    <h3 class="service-title">Reiki Healing</h3>
-                    <p class="service-description">Reiki is a gentle energy healing practice. The practitioner channels universal life force to restore balance, clear blockages, and support the body’s natural healing.</p>
-                    <a href="booking.php" class="book-btn">Book a Spot</a>
-                </div>
-            </div>
-
-            <!-- Vedic Astrology -->
-            <div class="col-lg-4 col-md-6 mb-4">
-                <div class="service-item">
-                    <div class="service-icon">
-                        <img src="images/vedic.png" alt="Vedic Astrology">
-                    </div>
-                    <h3 class="service-title">Vedic Astrology</h3>
-                    <p class="service-description">Rooted in the Rigveda, Vedic Astrology uses planetary positions at birth to reveal insights into life’s purpose, challenges, and opportunities for spiritual growth.</p>
-                    <a href="booking.php" class="book-btn">Book a Spot</a>
-                </div>
-            </div>
-
-            <!-- Lama Fera -->
-            <div class="col-lg-4 col-md-6 mb-4">
-                <div class="service-item">
-                    <div class="service-icon">
-                        <img src="images/lama.png" alt="Lama Fera">
-                    </div>
-                    <h3 class="service-title">Lama Fera</h3>
-                    <p class="service-description">Lama Fera is an ancient Buddhist healing technique that quickly removes negativity. It purifies energy, bringing calm and balance at emotional, physical, and mental levels.</p>
-                    <a href="booking.php" class="book-btn">Book a Spot</a>
-                </div>
-            </div>
-
-            <!-- Akashic Records -->
-            <div class="col-lg-4 col-md-6 mb-4">
-                <div class="service-item">
-                    <div class="service-icon">
-                        <img src="images/akashic.png" alt="Akashic Records">
-                    </div>
-                    <h3 class="service-title">Akashic Records</h3>
-                    <p class="service-description">The Akashic Records are an energetic database of your soul’s journey—revealing past lives, present patterns, and future possibilities to guide your spiritual path.</p>
+                    <h3 class="service-title">Gemologist</h3>
+                    <p class="service-description">Discover how gemstones influence your energy. A gemologist guides you in selecting the right stones to enhance health, attract success, and align with your personal astrological chart.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
         </div>
+
     </div>
 </section>
 

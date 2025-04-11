@@ -117,4 +117,5 @@
         <p>We shall not be responsible for any kind of loss or harm as long as the website, its content, and its services are offered without charge. [cite: 43]</p>
 
     </div>
-    <?php include('includes/footer.php'); ?>
+</section>
+<?php include('includes/footer.php'); ?>

@@ -450,8 +450,8 @@ a:hover {
 }
 
 .service-icon {
-    width: 120px;
-    height: 120px;
+    width: 250px;
+    height: 250px;
     margin: 0 auto 20px;
     border-radius: 50%;
     overflow: hidden;
@@ -610,8 +610,8 @@ a:hover {
 }
 
 .trainer-image {
-    width: 180px;
-    height: 180px;
+    width: 280px;
+    height: 280px;
     border-radius: 50%;
     overflow: hidden;
     margin: 0 auto 20px;
@@ -858,8 +858,8 @@ a:hover {
 
     .owl-carousel .owl-nav button.owl-prev,
     .owl-carousel .owl-nav button.owl-next {
-        width: 40px;
-        height: 40px;
+        width: 25px;
+        height: 25px;
         font-size: 1.5rem;
     }
 }

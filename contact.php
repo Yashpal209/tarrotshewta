@@ -64,7 +64,7 @@
                         </div>
                         <div class="content">
                             <h5 class="mb-1">Working Hours</h5>
-                            <p class="mb-0">Monday - Saturday: 10:00 AM - 7:00 PM<br>Sunday: Closed</p>
+                            <p class="mb-0">Monday - Saturday: 10:00 AM - 10:00 PM<br>Sunday: 02:00 PM - 09:00 PM</p>
                         </div>
                     </div>
                 </div>
@@ -72,11 +72,11 @@
                 <div class=" mt-4">
                     <h5>Connect With Us</h5>
                     <div class="d-flex mt-2">
-                    <a href="http://twitter.com/" class="social-icon me-2"><i class="fab fa-twitter"></i></a>
+                    <!-- <a href="http://twitter.com/" class="social-icon me-2"><i class="fab fa-twitter"></i></a> -->
                     <a href="https://www.facebook.com/tarrotwithshweta" class="social-icon me-2"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://www.instagram.com/tarrotwithshweta/" class="social-icon me-2"><i class="fab fa-instagram"></i></a>
-                    <a href="https://www.linkedin.com/" class="social-icon me-2"><i class="fab fa-linkedin-in"></i></a>
-                    <a href="https://www.youtube.com/" class="social-icon"><i class="fab fa-youtube"></i></a>
+                    <!-- <a href="https://www.linkedin.com/" class="social-icon me-2"><i class="fab fa-linkedin-in"></i></a> -->
+                    <a href="https://youtube.com/shorts/8zDRuzNhMFo?si=uxKQrQHtVORQKs6Q" class="social-icon"><i class="fab fa-youtube"></i></a>
                     </div>
                 </div>
             </div>
@@ -84,7 +84,7 @@
             <div class="col-lg-7">
                 <div class="contact-form-wrapper p-4 border rounded shadow-sm bg-white">
                     <h3 class="mb-4">Send us a Message</h3>
-                    <form id="contactForm" action="#" method="post">
+                    <form id="contactForm" action="action.php" method="post">
                         <div class="row">
                             <div class="col-md-6 mb-3">
                                 <label for="name" class="form-label">Your Name</label>
@@ -111,7 +111,7 @@
                             <input type="checkbox" class="form-check-input" id="privacy" required>
                             <label class="form-check-label" for="privacy">I agree to the <a href="privacy.php">privacy policy</a></label>
                         </div>
-                        <button type="submit" class="btn btn-primary">Send Message</button>
+                        <button type="submit"  name="contactus" class="btn btn-primary">Send Message</button>
                     </form>
                 </div>
             </div>

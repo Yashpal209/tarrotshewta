@@ -7,7 +7,7 @@
         <div class="item">
             <div class="slider-item" style="background-image: url('images/slider/1.png');">
                 <div class="container">
-                    <div class="slider-content">
+                    <div class="slider-content hide">
                         <!-- <h1>Welcome to Tarot with Shweta</h1> -->
                         <!-- <p>Discover your path with accurate tarot readings</p> -->
                         <a href="booking.php" class="btn">Book a Reading</a>
@@ -35,23 +35,25 @@
             <div class="col-12">
                 <!-- <h3 class="about-title">WHO IS TARROT WITH SHWETA?</h3> -->
                 <div class="about-text">
-                    <p>Welcome to Tarrot with Shweta.... From a young age, I had an intense connection with the universe. My abilities allow me to pick up information and feelings from people, as well as vibrations and messages from spirits and souls. Using my spiritual energies and hard intuition, I want to help provide you with the information you're seeking whether it be answers regarding your present, past, or future.</p>
+                    <p>Welcome to Tarrot with Shweta. From a young age, I had an intense connection with the universe. My abilities allow me to pick up information and feelings from people, as well as vibrations and messages from spirits and souls. Using my spiritual energies and hard intuition, I want to help provide you with the information you're seeking whether it be answers regarding your present, past, or future.</p>
                 </div>
             </div>
         </div>
         <div class="row pt-3">
-            <div class="col-lg-4 col-md-12 text-center ">
+            <div class="col-lg-5 col-md-12 text-center ">
                 <div class="trainer-image">
                     <img src="images/sweta.jpg" alt="Shweta - Tarrot Card Reader">
                 </div>
                 <h3 class="trainer-name">Shweta Srivastva</h3>
                 <p class="trainer-title">TARROTCARD READER</p>
             </div>
-            <div class="col-lg-8 col-md-12">
+            <div class="col-lg-7 col-md-12">
                 <h3 class="section-title" style="color: white;">WHO IS TARROT WITH SHWETA?</h3>
                 <div class="trainer-bio">
-                    <p>Shweta is a certified tarrot reader, psychic reader. Have practiced from last 10 years and helped thousands of people solving their issues. Now I am available in social media to guide people with the help of my spiritual energies, Tarot card reading, Candle Healing, Reiki Healing, Numerology, Astrology, Vaastu - Shastra, Switchwords, Angels Healing, Love readings and Love Spells, Angels Reading, and Much more...</p>
+                    <p>Shweta is a certified Tarot Reader, Numerologist, Vaastu Consultant, Crystal Healer, Meditation Guide, and Gemologist. She has been practicing for the past 10 years and has helped thousands of people overcome their challenges. Now available on social media, Shweta continues to guide individuals through her spiritual expertise in Tarot Reading, Numerology, Vaastu Shastra, Crystal Healing, Meditation, and Gemology.</p>
+                    <p><strong>Chat With:</strong> +91-7061887689</p>
                 </div>
+
             </div>
         </div>
     </div>
@@ -71,8 +73,8 @@
                     <div class="service-icon">
                         <img src="images/tarot-card1.png" alt="Tarot Cards">
                     </div>
-                    <h3 class="service-title">Tarot Reader</h3>
-                    <p class="service-description">Feeling  uncertain about your path? It offers guidance in love, career, health, and personal growth. Discover clarity through ancient wisdom and intuitive insight in a safe, nurturing session tailored just for you.</p>
+                    <h3 class="service-title">Tarrot Reader</h3>
+                    <p class="service-description">Feeling uncertain about your path? It offers guidance in love, career, health, and personal growth. Discover clarity through ancient wisdom and intuitive insight in a safe, nurturing session tailored just for you.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
@@ -89,10 +91,10 @@
             <div class="col-xl-3 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
-                        <img src="images/reiki-healing.png" alt="Healing">
+                        <img src="images/vaastu.png" alt="Healing">
                     </div>
-                    <h3 class="service-title">Healer</h3>
-                    <p class="service-description">Feeling tired, anxious, or out of balance? Energy healing helps release stress and emotional blockages, restoring peace and clarity. Reconnect with your inner self and recharge your mind, body, and spirit.</p>
+                    <h3 class="service-title">Vaastu</h3>
+                    <p class="service-description">Vaastu Shastra uses directional science to bring harmony to your living and workspaces. It aligns your surroundings to attract peace, growth, Understand your unique empowered life choices.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
@@ -211,14 +213,14 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item">
                         <div class="testimonial-text">
-                            <p>Hi Mam, I want to book a health reading for my sister. Please tell me the charges. Also, I want to thank you because I took a reading regarding my husband's job, and he got it last month as you predicted. Your readings are to the point. Thank you so much, Mam!</p>
+                            <p>I honestly didn’t expect such clarity. Your reading gave me the courage to make a big decision regarding my career. And everything turned out exactly how you said it would. You’ve got a real gift, thank you.</p>
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
-                                <img src="images/user.png" alt="Manpreet Kaur">
+                                <img src="images/user.png" alt="Ritu Sharma">
                             </div>
                             <div class="testimonial-author-info">
-                                <h5>Manpreet Kaur</h5>
+                                <h5>Ritu Sharma</h5>
                             </div>
                         </div>
                     </div>
@@ -228,14 +230,14 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item">
                         <div class="testimonial-text">
-                            <p>Hi Mam, I want to book a health reading for my sister. Please tell me the charges. Also, I want to thank you because I took a reading regarding my husband's job, and he got it last month as you predicted. Your readings are to the point. Thank you so much, Mam!</p>
+                            <p>When I came to you, I was full of doubts about my relationship. You not only reassured me with your accurate reading but helped me see the bigger picture. We’re in a much better place now, and I’m truly thankful.</p>
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
-                                <img src="images/user.png" alt="Simran Chawla">
+                                <img src="images/user.png" alt="Akash Verma">
                             </div>
                             <div class="testimonial-author-info">
-                                <h5>Simran Chawla</h5>
+                                <h5>Akash Verma</h5>
                             </div>
                         </div>
                     </div>
@@ -245,14 +247,14 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item">
                         <div class="testimonial-text">
-                            <p>Hi Mam, I want to book a health reading for my sister. Please tell me the charges. Also, I want to thank you because I took a reading regarding my husband's job, and he got it last month as you predicted. Your readings are to the point. Thank you so much, Mam!</p>
+                            <p>I’ve tried many tarot readers before, but your guidance felt genuine and deeply intuitive. It’s rare to find someone who not only reads cards but also reads energy. You’ve helped me realign my thoughts and actions.</p>
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
-                                <img src="images/user.png" alt="Neha Sharma">
+                                <img src="images/user.png" alt="Nivedita Dey">
                             </div>
                             <div class="testimonial-author-info">
-                                <h5>Neha Sharma</h5>
+                                <h5>Nivedita Dey</h5>
                             </div>
                         </div>
                     </div>
@@ -262,14 +264,14 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item">
                         <div class="testimonial-text">
-                            <p>Hi Mam, I want to book a health reading for my sister. Please tell me the charges. Also, I want to thank you because I took a reading regarding my husband's job, and he got it last month as you predicted. Your readings are to the point. Thank you so much, Mam!</p>
+                            <p>I’m amazed!! The reading blew my mind. You mentioned something about an unexpected opportunity, and guess what? I got a new job offer the very next day. Magical. Thank you Shweta Srivastva Maam. </p>
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
-                                <img src="images/user.png" alt="Priya Verma">
+                                <img src="images/user.png" alt="Ajay Munda">
                             </div>
                             <div class="testimonial-author-info">
-                                <h5>Priya Verma</h5>
+                                <h5>Ajay Munda</h5>
                             </div>
                         </div>
                     </div>
@@ -279,14 +281,14 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item">
                         <div class="testimonial-text">
-                            <p>Hi Mam, I want to book a health reading for my sister. Please tell me the charges. Also, I want to thank you because I took a reading regarding my husband's job, and he got it last month as you predicted. Your readings are to the point. Thank you so much, Mam!</p>
+                            <p>Your tarot reading helped me understand a situation I had been overthinking for months. The cards revealed exactly what I needed to hear, not what I wanted, but what was true. That insight changed my mindset completely.</p>
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
-                                <img src="images/user.png" alt="Anjali Mehta">
+                                <img src="images/user.png" alt="Alisha ">
                             </div>
                             <div class="testimonial-author-info">
-                                <h5>Anjali Mehta</h5>
+                                <h5>Alisha </h5>
                             </div>
                         </div>
                     </div>
@@ -296,12 +298,6 @@
 
             <!-- Swiper Pagination -->
             <div class="swiper-pagination"></div>
-        </div>
-
-        <div class="row mt-4">
-            <div class="col-12 text-center">
-                <a href="testimonials.php" class="btn btn-primary">See More Testimonials...</a>
-            </div>
         </div>
     </div>
 </section>

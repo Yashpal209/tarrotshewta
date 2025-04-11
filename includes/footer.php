@@ -9,11 +9,11 @@
                 <p><strong>Phone:</strong> <a href="tel:+917061887689" style="color: #b7b0b6;">+91 7061887689</a></p>
                 <p><strong>Email:</strong> <a href="mailto:tarrotwithshweta@gmail.com" style="color: #b7b0b6;">tarrotwithshweta@gmail.com</a></p>
                 <div class="social-links mt-3">
-                    <a href="http://twitter.com/" class="social-icon"><i class="fab fa-twitter"></i></a>
+                    <!-- <a href="http://twitter.com/" class="social-icon"><i class="fab fa-twitter"></i></a> -->
                     <a href="https://www.facebook.com/tarrotwithshweta" class="social-icon"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://www.instagram.com/tarrotwithshweta/" class="social-icon"><i class="fab fa-instagram"></i></a>
-                    <a href="https://www.linkedin.com/" class="social-icon"><i class="fab fa-linkedin-in"></i></a>
-                    <a href="https://www.youtube.com/" class="social-icon"><i class="fab fa-youtube"></i></a>
+                    <!-- <a href="https://www.linkedin.com/" class="social-icon"><i class="fab fa-linkedin-in"></i></a> -->
+                    <a href="https://youtube.com/shorts/8zDRuzNhMFo?si=uxKQrQHtVORQKs6Q" class="social-icon"><i class="fab fa-youtube"></i></a>
                 </div>
             </div>
 
@@ -57,7 +57,7 @@
 
     <div class="copyright py-3 text-center">
         <div class="container">
-            <p class="m-0">Copyright &copy; <strong>Tarrot Shewta</strong>. All Rights Reserved</p>
+            <p class="m-0">Copyright &copy; <strong>Tarrot with Shweta</strong>. All Rights Reserved</p>
             <p class="m-0 small">Designed by <a href="https://www.jharkhanditservices.com/">Jharkhand IT Services Software Pvt. Ltd</a></p>
         </div>
     </div>
@@ -65,13 +65,13 @@
 
 <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-<!-- jQuery (Required) -->
 <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+<!-- jQuery (Required) -->
 
 <!-- Owl Carousel JS -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 <!-- Initialize Owl Carousel -->
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <script>

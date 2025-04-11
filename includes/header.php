@@ -45,6 +45,7 @@
                             <div class="social-links hide">
                                 <a  href="https://www.facebook.com/tarrotwithshweta" target="_blank"><i class="fab fa-facebook-f fa-xl text-primary"></i></a>
                                 <a href="https://www.instagram.com/tarrotwithshweta/" target="_blank"><i class="fab fa-instagram fa-xl text-danger"></i></a>
+                                <a href="https://youtube.com/shorts/8zDRuzNhMFo?si=uxKQrQHtVORQKs6Q" ><i class="fab fa-youtube fa-xl text-danger"></i></a>
                             </div>
                             <div class="cta-button">
                                 <a href="booking.php" class="btn btn-primary">Book Now</a>

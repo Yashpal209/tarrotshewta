@@ -26,7 +26,7 @@
                     <h2 class="section-title text-center mb-4">Book Your Session with Tarrot Shewta</h2>
                     <p class="text-center fw-bold mb-4">Fill out the form below to schedule your appointment. We'll get back to you to confirm the details.</p>
 
-                    <form id="bookingForm" action="#" method="post">
+                    <form id="bookingForm" action="action.php" method="post">
                         <div class="row">
                             <div class="col-md-6 mb-3">
                                 <label for="firstName" class="form-label">First Name<span style="color: red;">*</span></label>
@@ -53,15 +53,12 @@
                             <label for="service" class="form-label">Select Service<span style="color: red;">*</span></label>
                             <select class="form-select" id="service" name="service" required>
                                 <option value="" selected disabled>Choose a service...</option>
-                                <option value="tarot-reading">Tarot Card Reading</option>
+                                <option value="tarot-reading">Tarot Reading</option>
                                 <option value="numerology">Numerology</option>
                                 <option value="vaastu">Vaastu</option>
-                                <option value="angel-healing">Angel Healing</option>
+                                <option value="crystal-healing">Crystal Healing</option>
                                 <option value="meditation">Meditation</option>
-                                <option value="reiki-healing">Reiki Healing</option>
-                                <option value="vedic-astrology">Vedic Astrology</option>
-                                <option value="lama-fera">Lama Fera</option>
-                                <option value="akashic-records">Akashic Records</option>
+                                <option value="gemology">Gemology</option>
                             </select>
                         </div>
 
@@ -129,7 +126,7 @@
                             <label class="form-check-label" for="marketingAgree">I would like to receive updates and special offers via email</label>
                         </div>
 
-                        <button type="submit" class="btn btn-primary w-100">Book Now</button>
+                        <button type="submit" name="booking" class="btn btn-primary w-100">Book Now</button>
 
                         <div class="mt-3 small text-muted">
                             <p><span style="color: red;">*</span> Required fields</p>
@@ -313,14 +310,14 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item">
                         <div class="testimonial-text">
-                            <p>Hi Mam, I want to book a health reading for my sister. Please tell me the charges. Also, I want to thank you because I took a reading regarding my husband's job, and he got it last month as you predicted. Your readings are to the point. Thank you so much, Mam!</p>
+                            <p>I honestly didn’t expect such clarity. Your reading gave me the courage to make a big decision regarding my career. And everything turned out exactly how you said it would. You’ve got a real gift, thank you.</p>
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
-                                <img src="images/user.png" alt="Manpreet Kaur">
+                                <img src="images/user.png" alt="Ritu Sharma">
                             </div>
                             <div class="testimonial-author-info">
-                                <h5>Manpreet Kaur</h5>
+                                <h5>Ritu Sharma</h5>
                             </div>
                         </div>
                     </div>
@@ -330,14 +327,14 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item">
                         <div class="testimonial-text">
-                            <p>Hi Mam, I want to book a health reading for my sister. Please tell me the charges. Also, I want to thank you because I took a reading regarding my husband's job, and he got it last month as you predicted. Your readings are to the point. Thank you so much, Mam!</p>
+                            <p>When I came to you, I was full of doubts about my relationship. You not only reassured me with your accurate reading but helped me see the bigger picture. We’re in a much better place now, and I’m truly thankful.</p>
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
-                                <img src="images/user.png" alt="Simran Chawla">
+                                <img src="images/user.png" alt="Akash Verma">
                             </div>
                             <div class="testimonial-author-info">
-                                <h5>Simran Chawla</h5>
+                                <h5>Akash Verma</h5>
                             </div>
                         </div>
                     </div>
@@ -347,14 +344,14 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item">
                         <div class="testimonial-text">
-                            <p>Hi Mam, I want to book a health reading for my sister. Please tell me the charges. Also, I want to thank you because I took a reading regarding my husband's job, and he got it last month as you predicted. Your readings are to the point. Thank you so much, Mam!</p>
+                            <p>I’ve tried many tarot readers before, but your guidance felt genuine and deeply intuitive. It’s rare to find someone who not only reads cards but also reads energy. You’ve helped me realign my thoughts and actions.</p>
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
-                                <img src="images/user.png" alt="Neha Sharma">
+                                <img src="images/user.png" alt="Nivedita Dey">
                             </div>
                             <div class="testimonial-author-info">
-                                <h5>Neha Sharma</h5>
+                                <h5>Nivedita Dey</h5>
                             </div>
                         </div>
                     </div>
@@ -364,14 +361,14 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item">
                         <div class="testimonial-text">
-                            <p>Hi Mam, I want to book a health reading for my sister. Please tell me the charges. Also, I want to thank you because I took a reading regarding my husband's job, and he got it last month as you predicted. Your readings are to the point. Thank you so much, Mam!</p>
+                            <p>I’m amazed!! The reading blew my mind. You mentioned something about an unexpected opportunity, and guess what? I got a new job offer the very next day. Magical. Thank you Shweta Srivastva Maam. </p>
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
-                                <img src="images/user.png" alt="Priya Verma">
+                                <img src="images/user.png" alt="Ajay Munda">
                             </div>
                             <div class="testimonial-author-info">
-                                <h5>Priya Verma</h5>
+                                <h5>Ajay Munda</h5>
                             </div>
                         </div>
                     </div>
@@ -381,14 +378,14 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item">
                         <div class="testimonial-text">
-                            <p>Hi Mam, I want to book a health reading for my sister. Please tell me the charges. Also, I want to thank you because I took a reading regarding my husband's job, and he got it last month as you predicted. Your readings are to the point. Thank you so much, Mam!</p>
+                            <p>Your tarot reading helped me understand a situation I had been overthinking for months. The cards revealed exactly what I needed to hear, not what I wanted, but what was true. That insight changed my mindset completely.</p>
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
-                                <img src="images/user.png" alt="Anjali Mehta">
+                                <img src="images/user.png" alt="Alisha ">
                             </div>
                             <div class="testimonial-author-info">
-                                <h5>Anjali Mehta</h5>
+                                <h5>Alisha </h5>
                             </div>
                         </div>
                     </div>
