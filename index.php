@@ -4,9 +4,7 @@
 <!-- Slider Section -->
 <section class="main-slider">
     <div class="owl-carousel owl-theme hero-slider">
-        <div class="item">
-            <div class="slider-item" style="background-image: url('images/slider/2.png');"></div>
-        </div>
+       
         <div class="item">
             <div class="slider-item" style="background-image: url('images/slider/1.png');">
                 <div class="container">
@@ -17,6 +15,9 @@
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="item">
+            <div class="slider-item" style="background-image: url('images/slider/2.png');"></div>
         </div>
         <div class="item">
             <div class="slider-item" style="background-image: url('images/slider/3.png');"></div>
