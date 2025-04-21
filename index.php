@@ -5,6 +5,9 @@
 <section class="main-slider">
     <div class="owl-carousel owl-theme hero-slider">
         <div class="item">
+            <div class="slider-item" style="background-image: url('images/slider/2.png');"></div>
+        </div>
+        <div class="item">
             <div class="slider-item" style="background-image: url('images/slider/1.png');">
                 <div class="container">
                     <div class="slider-content hide">
@@ -15,9 +18,7 @@
                 </div>
             </div>
         </div>
-        <div class="item">
-            <div class="slider-item" style="background-image: url('images/slider/2.png');"></div>
-        </div>
+
         <div class="item">
             <div class="slider-item" style="background-image: url('images/slider/3.png');"></div>
         </div>
@@ -92,10 +93,10 @@
                 </div>
             </div>
 
-           
 
-            
-            
+
+
+
             <!-- Crystal Healer -->
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="service-item">
@@ -108,8 +109,8 @@
                 </div>
             </div>
 
-          
-            
+
+
         </div>
 
         <div class="row mt-4">
