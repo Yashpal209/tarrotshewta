@@ -189,7 +189,7 @@
                         </h2>
                         <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                             <div class="accordion-body">
-                                Session duration varies based on the service. Most tarot readings last 30-60 minutes, while healing sessions may take 60-90 minutes. We'll inform you of the expected duration when you book your appointment.
+                                Session duration varies based on the service. Most tarrot readings last 30-60 minutes, while healing sessions may take 60-90 minutes. We'll inform you of the expected duration when you book your appointment.
                             </div>
                         </div>
                     </div>

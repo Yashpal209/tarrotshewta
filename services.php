@@ -30,10 +30,10 @@
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
-                        <img src="images/tarot-card1.png" alt="Tarot Cards">
+                        <img src="images/tarot-card1.png" alt="Tarrot Cards">
                     </div>
-                    <h3 class="service-title">Tarot Reader</h3>
-                    <p class="service-description">Gain insight into your life's direction with a tarot session. Discover answers about love, career, or health in a guided, intuitive reading that brings clarity and peace of mind.</p>
+                    <h3 class="service-title">Tarrot Reader</h3>
+                    <p class="service-description">Gain insight into your life's direction with a tarrot session. Discover answers about love, career, or health in a guided, intuitive reading that brings clarity and peace of mind.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
@@ -62,6 +62,17 @@
                 </div>
             </div>
 
+            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="service-item">
+                    <div class="service-icon">
+                        <img src="images/name.png" alt="Name Corrector">
+                    </div>
+                    <h3 class="service-title">Name Corrector</h3>
+                    <p class="service-description">Uncover the hidden impact of your name on your destiny. With name correction based on numerology and astrology, align your vibration for greater success, happiness, and well-being.</p>
+                    <a href="booking.php" class="book-btn">Book a Spot</a>
+                </div>
+            </div>
+            
             <!-- Crystal Healer -->
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="service-item">
@@ -97,6 +108,7 @@
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
+            
         </div>
 
     </div>

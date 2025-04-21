@@ -8,8 +8,8 @@
             <div class="slider-item" style="background-image: url('images/slider/1.png');">
                 <div class="container">
                     <div class="slider-content hide">
-                        <!-- <h1>Welcome to Tarot with Shweta</h1> -->
-                        <!-- <p>Discover your path with accurate tarot readings</p> -->
+                        <!-- <h1>Welcome to Tarrot with Shweta</h1> -->
+                        <!-- <p>Discover your path with accurate tarrot readings</p> -->
                         <a href="booking.php" class="btn">Book a Reading</a>
                     </div>
                 </div>
@@ -50,7 +50,7 @@
             <div class="col-lg-7 col-md-12">
                 <h3 class="section-title" style="color: white;">WHO IS TARROT WITH SHWETA?</h3>
                 <div class="trainer-bio">
-                    <p>Shweta is a certified Tarot Reader, Numerologist, Vaastu Consultant, Crystal Healer, Meditation Guide, and Gemologist. She has been practicing for the past 10 years and has helped thousands of people overcome their challenges. Now available on social media, Shweta continues to guide individuals through her spiritual expertise in Tarot Reading, Numerology, Vaastu Shastra, Crystal Healing, Meditation, and Gemology.</p>
+                    <p>Shweta is a certified Tarrot Reader, Numerologist, Vaastu Consultant, Crystal Healer, Meditation Guide, and Gemologist. She has been practicing for the past 10 years and has helped thousands of people overcome their challenges. Now available on social media, Shweta continues to guide individuals through her spiritual expertise in Tarrot Reading, Numerology, Vaastu Shastra, Crystal Healing, Meditation, and Gemology.</p>
                     <p><strong>Chat With:</strong> +91-7061887689</p>
                 </div>
 
@@ -68,46 +68,48 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-xl-3 col-md-6 mb-4">
+            <!-- Tarot Cards -->
+            <div class="col-lg-4 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
-                        <img src="images/tarot-card1.png" alt="Tarot Cards">
+                        <img src="images/tarot-card1.png" alt="Tarrot Cards">
                     </div>
                     <h3 class="service-title">Tarrot Reader</h3>
-                    <p class="service-description">Feeling uncertain about your path? It offers guidance in love, career, health, and personal growth. Discover clarity through ancient wisdom and intuitive insight in a safe, nurturing session tailored just for you.</p>
+                    <p class="service-description">Gain insight into your life's direction with a tarrot session. Discover answers about love, career, or health in a guided, intuitive reading that brings clarity and peace of mind.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
-            <div class="col-xl-3 col-md-6 mb-4">
+
+            <!-- Numerology -->
+            <div class="col-lg-4 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
                         <img src="images/numerology.png" alt="Numerology">
                     </div>
-                    <h3 class="service-title">Numerologist</h3>
-                    <p class="service-description">Numbers shape your destiny more than you know. From your birth date to your name, numerology helps decode life patterns, strengths, and challenges. Understand your unique empowered life choices.</p>
+                    <h3 class="service-title">Numerology</h3>
+                    <p class="service-description">Decode your life's patterns using numbers. Numerology provides deeper understanding of your strengths, challenges, and destiny, helping you navigate your personal and professional journey with confidence.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
-            <div class="col-xl-3 col-md-6 mb-4">
+
+           
+
+            
+            
+            <!-- Crystal Healer -->
+            <div class="col-lg-4 col-md-6 mb-4">
                 <div class="service-item">
                     <div class="service-icon">
-                        <img src="images/vaastu.png" alt="Healing">
+                        <img src="images/crystal.png" alt="Crystal Healer">
                     </div>
-                    <h3 class="service-title">Vaastu</h3>
-                    <p class="service-description">Vaastu Shastra uses directional science to bring harmony to your living and workspaces. It aligns your surroundings to attract peace, growth, Understand your unique empowered life choices.</p>
+                    <h3 class="service-title">Crystal Healer</h3>
+                    <p class="service-description">Crystal healing channels divine energy guided by angels. It gently restores emotional, physical, and spiritual balance, promoting inner peace and well-being through the power of natural stones.</p>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
-            <div class="col-xl-3 col-md-6 mb-4">
-                <div class="service-item">
-                    <div class="service-icon">
-                        <img src="images/name.png" alt="Name Correction">
-                    </div>
-                    <h3 class="service-title">Name Corrector</h3>
-                    <p class="service-description">Your name holds energetic power. Through numerology, we adjust your name to better align with your destiny, attracting positive outcomes and helping you live in harmony with your soul’s purpose.</p>
-                    <a href="booking.php" class="book-btn">Book a Spot</a>
-                </div>
-            </div>
+
+          
+            
         </div>
 
         <div class="row mt-4">
@@ -129,7 +131,7 @@
         <div class="row align-items-center">
             <div class="col-lg-2 mb-4 mb-lg-0">
                 <div class="why-us-image">
-                    <img src="images/tarot-card.png" alt="Why Choose Tarrot with Shweta">
+                    <img src="images/tarrot-card.png" alt="Why Choose Tarrot with Shweta">
                 </div>
             </div>
             <div class="col-lg-10">
@@ -247,7 +249,7 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item">
                         <div class="testimonial-text">
-                            <p>I’ve tried many tarot readers before, but your guidance felt genuine and deeply intuitive. It’s rare to find someone who not only reads cards but also reads energy. You’ve helped me realign my thoughts and actions.</p>
+                            <p>I’ve tried many tarrot readers before, but your guidance felt genuine and deeply intuitive. It’s rare to find someone who not only reads cards but also reads energy. You’ve helped me realign my thoughts and actions.</p>
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
@@ -268,10 +270,10 @@
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
-                                <img src="images/user.png" alt="Ajay Munda">
+                                <img src="images/user.png" alt="Ajay Sharma">
                             </div>
                             <div class="testimonial-author-info">
-                                <h5>Ajay Munda</h5>
+                                <h5>Ajay Sharma</h5>
                             </div>
                         </div>
                     </div>
@@ -281,14 +283,14 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item">
                         <div class="testimonial-text">
-                            <p>Your tarot reading helped me understand a situation I had been overthinking for months. The cards revealed exactly what I needed to hear, not what I wanted, but what was true. That insight changed my mindset completely.</p>
+                            <p>Your tarrot reading helped me understand a situation I had been overthinking for months. The cards revealed exactly what I needed to hear, not what I wanted, but what was true. That insight changed my mindset completely.</p>
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
-                                <img src="images/user.png" alt="Alisha ">
+                                <img src="images/user.png" alt="Astha ">
                             </div>
                             <div class="testimonial-author-info">
-                                <h5>Alisha </h5>
+                                <h5>Astha </h5>
                             </div>
                         </div>
                     </div>

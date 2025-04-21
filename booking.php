@@ -53,7 +53,7 @@
                             <label for="service" class="form-label">Select Service<span style="color: red;">*</span></label>
                             <select class="form-select" id="service" name="service" required>
                                 <option value="" selected disabled>Choose a service...</option>
-                                <option value="tarot-reading">Tarot Reading</option>
+                                <option value="tarrot-reading">Tarrot Reading</option>
                                 <option value="numerology">Numerology</option>
                                 <option value="vaastu">Vaastu</option>
                                 <option value="crystal-healing">Crystal Healing</option>
@@ -160,7 +160,7 @@
                         <ul class="list-unstyled">
                             <li class="mb-2"><i class="fas fa-check text-primary me-2"></i>30-minute consultation</li>
                             <li class="mb-2"><i class="fas fa-check text-primary me-2"></i>One area of focus</li>
-                            <li class="mb-2"><i class="fas fa-check text-primary me-2"></i>Basic tarot reading</li>
+                            <li class="mb-2"><i class="fas fa-check text-primary me-2"></i>Basic tarrot reading</li>
                             <li class="mb-2"><i class="fas fa-check text-primary me-2"></i>Email support</li>
                             <li class="text-muted mb-2"><i class="fas fa-times me-2"></i>Follow-up session</li>
                             <li class="text-muted mb-2"><i class="fas fa-times me-2"></i>Personalized report</li>
@@ -184,7 +184,7 @@
                         <ul class="list-unstyled">
                             <li class="mb-2"><i class="fas fa-check text-primary me-2"></i>60-minute consultation</li>
                             <li class="mb-2"><i class="fas fa-check text-primary me-2"></i>Multiple areas of focus</li>
-                            <li class="mb-2"><i class="fas fa-check text-primary me-2"></i>Detailed tarot reading</li>
+                            <li class="mb-2"><i class="fas fa-check text-primary me-2"></i>Detailed tarrot reading</li>
                             <li class="mb-2"><i class="fas fa-check text-primary me-2"></i>Email & phone support</li>
                             <li class="mb-2"><i class="fas fa-check text-primary me-2"></i>One follow-up session</li>
                             <li class="text-muted mb-2"><i class="fas fa-times me-2"></i>Personalized report</li>
@@ -207,7 +207,7 @@
                         <ul class="list-unstyled">
                             <li class="mb-2"><i class="fas fa-check text-primary me-2"></i>90-minute consultation</li>
                             <li class="mb-2"><i class="fas fa-check text-primary me-2"></i>Comprehensive analysis</li>
-                            <li class="mb-2"><i class="fas fa-check text-primary me-2"></i>Advanced tarot reading</li>
+                            <li class="mb-2"><i class="fas fa-check text-primary me-2"></i>Advanced tarrot reading</li>
                             <li class="mb-2"><i class="fas fa-check text-primary me-2"></i>Priority support</li>
                             <li class="mb-2"><i class="fas fa-check text-primary me-2"></i>Two follow-up sessions</li>
                             <li class="mb-2"><i class="fas fa-check text-primary me-2"></i>Detailed personalized report</li>
@@ -344,7 +344,7 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item">
                         <div class="testimonial-text">
-                            <p>I’ve tried many tarot readers before, but your guidance felt genuine and deeply intuitive. It’s rare to find someone who not only reads cards but also reads energy. You’ve helped me realign my thoughts and actions.</p>
+                            <p>I’ve tried many tarrot readers before, but your guidance felt genuine and deeply intuitive. It’s rare to find someone who not only reads cards but also reads energy. You’ve helped me realign my thoughts and actions.</p>
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
@@ -365,10 +365,10 @@
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
-                                <img src="images/user.png" alt="Ajay Munda">
+                                <img src="images/user.png" alt="Ajay Sharma">
                             </div>
                             <div class="testimonial-author-info">
-                                <h5>Ajay Munda</h5>
+                                <h5>Ajay Sharma</h5>
                             </div>
                         </div>
                     </div>
@@ -378,14 +378,14 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item">
                         <div class="testimonial-text">
-                            <p>Your tarot reading helped me understand a situation I had been overthinking for months. The cards revealed exactly what I needed to hear, not what I wanted, but what was true. That insight changed my mindset completely.</p>
+                            <p>Your tarrot reading helped me understand a situation I had been overthinking for months. The cards revealed exactly what I needed to hear, not what I wanted, but what was true. That insight changed my mindset completely.</p>
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
-                                <img src="images/user.png" alt="Alisha ">
+                                <img src="images/user.png" alt="Astha ">
                             </div>
                             <div class="testimonial-author-info">
-                                <h5>Alisha </h5>
+                                <h5>Astha </h5>
                             </div>
                         </div>
                     </div>

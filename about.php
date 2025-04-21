@@ -30,7 +30,7 @@
                 <h2 class="section-title">ABOUT ME</h2>
                 <div class="about-text">
                     <p>Tarrot with Shweta is your gateway to spiritual guidance, insight, healing, and the transformational power of crystals. I believe that using the magic of power may help us travel a successful road, and I am thrilled to share this great trip with you all.</p>
-                    <p>With a strong connection to the cosmos, a lifelong fascination with the metaphysical, and a thorough study of the tarot reader, numerologist, healer, name corrector specialist, I had the privilege of guiding many people through life's rich tapestry. As a well-known tarrot reader, I consider myself fortunate to have the opportunity to interact with individuals from all walks of life and provide them with tremendous clarity, hope, and insights.</p>
+                    <p>With a strong connection to the cosmos, a lifelong fascination with the metaphysical, and a thorough study of the tarrot reader, numerologist, healer, name corrector specialist, I had the privilege of guiding many people through life's rich tapestry. As a well-known tarrot reader, I consider myself fortunate to have the opportunity to interact with individuals from all walks of life and provide them with tremendous clarity, hope, and insights.</p>
                     <p>I am an enthusiastic advocate of holistic well-being and feel that the universe gives us a variety of tools to nourish our soul, body, and mind. This is why I have always committed myself to creating individualized healing as a tarrot reader, numerologist, healer, name corrector specialist.</p>
                     <p>From tarrot readings that enlighten your path to personalized crystal goods that connect with your specific energy, tarrot with Shweta offers a wealth of tools. I am thus here to accompany you on this incredible trip if you are looking for clarity, personal development, or healing. </p>
                     <p>I appreciate you coming along on this enchanted journey of self-discovery and transformation. Together, we will also discover the universe's mysteries, establish a connection with your higher self, and bring your dream the world to life. </p>
@@ -117,7 +117,7 @@
                         <div class="timeline-marker"></div>
                         <div class="timeline-content">
                             <h4>Certification & Practice</h4>
-                            <p>After rigorous training, I became a certified tarot reader and began my practice, gradually building a reputation for accurate and insightful readings.</p>
+                            <p>After rigorous training, I became a certified tarrot reader and began my practice, gradually building a reputation for accurate and insightful readings.</p>
                         </div>
                     </div>
                     <div class="timeline-item">
@@ -191,7 +191,7 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item">
                         <div class="testimonial-text">
-                            <p>I’ve tried many tarot readers before, but your guidance felt genuine and deeply intuitive. It’s rare to find someone who not only reads cards but also reads energy. You’ve helped me realign my thoughts and actions.</p>
+                            <p>I’ve tried many tarrot readers before, but your guidance felt genuine and deeply intuitive. It’s rare to find someone who not only reads cards but also reads energy. You’ve helped me realign my thoughts and actions.</p>
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
@@ -212,10 +212,10 @@
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
-                                <img src="images/user.png" alt="Ajay Munda">
+                                <img src="images/user.png" alt="Ajay Sharma">
                             </div>
                             <div class="testimonial-author-info">
-                                <h5>Ajay Munda</h5>
+                                <h5>Ajay Sharma</h5>
                             </div>
                         </div>
                     </div>
@@ -225,14 +225,14 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item">
                         <div class="testimonial-text">
-                            <p>Your tarot reading helped me understand a situation I had been overthinking for months. The cards revealed exactly what I needed to hear, not what I wanted, but what was true. That insight changed my mindset completely.</p>
+                            <p>Your tarrot reading helped me understand a situation I had been overthinking for months. The cards revealed exactly what I needed to hear, not what I wanted, but what was true. That insight changed my mindset completely.</p>
                         </div>
                         <div class="testimonial-author">
                             <div class="testimonial-author-img">
-                                <img src="images/user.png" alt="Alisha ">
+                                <img src="images/user.png" alt="Astha ">
                             </div>
                             <div class="testimonial-author-info">
-                                <h5>Alisha </h5>
+                                <h5>Astha </h5>
                             </div>
                         </div>
                     </div>

@@ -472,6 +472,7 @@ a:hover {
 .service-description {
     margin-bottom: 20px;
     color: var(--text-color);
+    height: 150px;
     text-align: justify;
 }
 
