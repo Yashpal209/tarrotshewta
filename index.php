@@ -132,7 +132,7 @@
         <div class="row align-items-center">
             <div class="col-lg-2 mb-4 mb-lg-0">
                 <div class="why-us-image">
-                    <img src="images/tarrot-card.png" alt="Why Choose Tarrot with Shweta">
+                    <img src="images/tarot-card.png" alt="Why Choose Tarrot with Shweta">
                 </div>
             </div>
             <div class="col-lg-10">
