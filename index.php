@@ -18,7 +18,6 @@
                 </div>
             </div>
         </div>
-
         <div class="item">
             <div class="slider-item" style="background-image: url('images/slider/3.png');"></div>
         </div>
@@ -77,6 +76,7 @@
                     </div>
                     <h3 class="service-title">Tarrot Reader</h3>
                     <p class="service-description">Gain insight into your life's direction with a tarrot session. Discover answers about love, career, or health in a guided, intuitive reading that brings clarity and peace of mind.</p>
+                    <a href="reader.php" class="book-btn">Read More</a>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
@@ -89,13 +89,10 @@
                     </div>
                     <h3 class="service-title">Numerology</h3>
                     <p class="service-description">Decode your life's patterns using numbers. Numerology provides deeper understanding of your strengths, challenges, and destiny, helping you navigate your personal and professional journey with confidence.</p>
+                    <a href="numerologist.php" class="book-btn">Read More</a>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
-
-
-
-
 
             <!-- Crystal Healer -->
             <div class="col-lg-4 col-md-6 mb-4">
@@ -105,11 +102,10 @@
                     </div>
                     <h3 class="service-title">Crystal Healer</h3>
                     <p class="service-description">Crystal healing channels divine energy guided by angels. It gently restores emotional, physical, and spiritual balance, promoting inner peace and well-being through the power of natural stones.</p>
+                    <a href="crystal.php" class="book-btn">Read More</a>
                     <a href="booking.php" class="book-btn">Book a Spot</a>
                 </div>
             </div>
-
-
 
         </div>
 
