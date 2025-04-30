@@ -5,10 +5,11 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h1 class="page-title">Tarrot Reading Services</h1>
+                <h1 class="page-title">Tarrot Services</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                        <li class="breadcrumb-item"><a href="services.php">Tarrot Services</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Tarrot Reading Services</li>
                     </ol>
                 </nav>

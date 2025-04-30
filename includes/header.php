@@ -78,8 +78,11 @@
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <li><a class="dropdown-item" href="reader.php">Tarrot reader</a></li>
                                 <li><a class="dropdown-item" href="numerologist.php">Numerologist </a></li>
-                                <li><a class="dropdown-item" href="healer.php">Crystal Healer</a></li>
+                                <li><a class="dropdown-item" href="vaastu.php">Vaastu</a></li>
                                 <li><a class="dropdown-item" href="name.php">Name Corrector</a></li>
+                                <li><a class="dropdown-item" href="healer.php">Crystal Healer</a></li>
+                                <li><a class="dropdown-item" href="meditation.php">Meditation</a></li>
+                                <li><a class="dropdown-item" href="gemologist.php">Gemologist</a></li>
                             </ul>
                         </li>
                         <li class="nav-item">
