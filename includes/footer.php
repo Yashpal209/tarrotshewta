@@ -33,10 +33,12 @@
             <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
                 <h5 class="text-uppercase">Our Services</h5>
                 <ul class="list-unstyled">
-                    <li><a class="dropdown-item" href="reader.php">Tarrot reader</a></li>
                     <li><a class="dropdown-item" href="numerologist.php">Numerologist </a></li>
-                    <li><a class="dropdown-item" href="healer.php">Healer</a></li>
+                    <li><a class="dropdown-item" href="vaastu.php">Vaastu</a></li>
                     <li><a class="dropdown-item" href="name.php">Name Corrector</a></li>
+                    <li><a class="dropdown-item" href="healer.php">Crystal Healer</a></li>
+                    <li><a class="dropdown-item" href="meditation.php">Meditation</a></li>
+                    <li><a class="dropdown-item" href="gemologist.php">Gemologist</a></li>
                 </ul>
             </div>
         </div>
