@@ -34,7 +34,7 @@
                     <p>I am an enthusiastic advocate of holistic well-being and feel that the universe gives us a variety of tools to nourish our soul, body, and mind. This is why I have always committed myself to creating individualized healing as a tarrot reader, numerologist, healer, name corrector specialist.</p>
                     <p>From tarrot readings that enlighten your path to personalized crystal goods that connect with your specific energy, tarrot with Shweta offers a wealth of tools. I am thus here to accompany you on this incredible trip if you are looking for clarity, personal development, or healing. </p>
                     <p>I appreciate you coming along on this enchanted journey of self-discovery and transformation. Together, we will also discover the universe's mysteries, establish a connection with your higher self, and bring your dream the world to life. </p>
-                    <p class="fw-bold">With guidance and love,<br>Shweta Srivastva  </p>
+                    <p class="fw-bold">With guidance and love,<br>Shweta Srivastva </p>
                 </div>
             </div>
         </div>
@@ -89,7 +89,7 @@
 </section>
 
 <!-- My Journey -->
-<section class="journey-section py-5">
+<section class="journey-section py-5" style="background: #f3e3f4;">
     <div class="container">
         <div class="row">
             <div class="col-12 mb-4">
@@ -141,7 +141,7 @@
 </section>
 
 <!-- Testimonials -->
-<section class="testimonial-section">
+<section class="testimonial-section bg-light" >
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -244,7 +244,7 @@
             <div class="swiper-pagination"></div>
         </div>
 
-        
+
     </div>
 </section>
 
@@ -344,14 +344,7 @@
         }
     }
 
-    .cta-section {
-        background-color: var(--primary-color);
-        color: var(--light-color);
-    }
-
-    .cta-section h3 {
-        color: var(--light-color);
-    }
+  
 </style>
 
 <?php include('includes/footer.php'); ?>
