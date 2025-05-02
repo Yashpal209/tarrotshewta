@@ -153,7 +153,7 @@
                         </h2>
                         <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                             <div class="accordion-body">
-                                You can book a session by visiting our <a href="booking.php">booking page</a>, calling us directly at +91 87970-68771, or by sending us an email at tarrotwithshweta@gmail.com. We'll get back to you as soon as possible to confirm your appointment.
+                                You can book a session by visiting our <a href="booking.php">booking page</a>, calling us directly at +91 7061887689, or by sending us an email at tarrotwithshweta@gmail.com. We'll get back to you as soon as possible to confirm your appointment.
                             </div>
                         </div>
                     </div>
