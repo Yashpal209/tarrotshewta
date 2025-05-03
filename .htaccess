@@ -1,0 +1,9 @@
+RewriteEngine On
+
+# Ensure HTTPS is on
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Redirect non-www to www
+RewriteCond %{HTTP_HOST} ^tarrotwithshweta\.com [NC]
+RewriteRule ^ https://www.tarrotwithshweta.com%{REQUEST_URI} [L,R=301]
